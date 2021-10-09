@@ -1,0 +1,1364 @@
+<a tabindex="0" class="language" href="javascript:void(0);">EDITIONS</a>
+<a class="announcement" href="https://www.theepochtimes.com/about-subscription">OUR STORY</a>
+<a class="announcement donate" href="https://subscribe.theepochtimes.com/p/?page=donate01&amp;utm_source=makeadonationtop" target="_blank">MAKE A DONATION</a>
+<a id="login-button" href="javascript:void(0)">Login</a>
+<a href="https://www.theepochtimes.com/myaccount" id="myaccount" class="account">SETTINGS</a>
+<a href="#" id="logout-button" class="logout">LOGOUT</a>
+<a class="search" href="javascript:void(0);">SEARCH</a>
+<a href="/">UNITED STATES</a>
+<a href="/canada">CANADA</a>
+<a href="/australia">AUSTRALIA</a>
+<a href="/uk-europe">UK, EUROPE</a>
+<a href="https://epochtimes.bg/">Bulgarian</a>
+<a href="https://www.epochtimes.com/">Chinese</a>
+<a href="https://www.epochtimes.cz/">Czech</a>
+<a href="https://www.epochtimes.nl/">Dutch</a>
+<a href="http://www.theepochtimes.com/">English</a>
+<a href="https://fr.theepochtimes.com/">French</a>
+<a href="https://www.epochtimes.de/">German</a>
+<a href="http://www.erabaru.net/">Indonesian</a>
+<a href="https://www.epochtimes.it/">Italian</a>
+<a href="https://www.epochtimes.jp/">Japanese</a>
+<a href="https://kr.theepochtimes.com/">Korean</a>
+<a href="https://persianepochtimes.com/">Persian</a>
+<a href="https://epochtimes.pl">Polish</a>
+<a href="https://www.epochtimes.com.br/">Portuguese</a>
+<a href="https://www.epochtimes-romania.com/">Romanian</a>
+<a href="https://www.epochtimes.ru/">Russian</a>
+<a href="https://www.epochtimes.cz/">Slovak</a>
+<a href="https://es.theepochtimes.com/">Spanish</a>
+<a href="https://www.epochtimes.se/">Swedish</a>
+<a href="http://epochtimestr.com/">Turkish</a>
+<a href="https://www.epochtimes.com.ua/">Ukrainian</a>
+<a href="https://etviet.com/">Vietnamese</a>
+<a href="https://www.theepochtimes.com"><span class="logo_text">The Epoch Times</span><img src="https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg" alt="The Epoch Times"></a>
+<a href="https://www.theepochtimes.com/epochtv">Epoch TV</a>
+<a href="https://www.theepochtimes.com/us-news">US</a>
+<a href="https://www.theepochtimes.com/c-us-politics">Politics</a>
+<a href="https://www.theepochtimes.com/china-news">China</a>
+<a href="https://www.theepochtimes.com/c-world">World</a>
+<a href="https://www.theepochtimes.com/c-opinion">Opinion</a>
+<a href="https://www.theepochtimes.com/c-business">Business &amp; Economy</a>
+<a href="https://www.theepochtimes.com/c-science">Science</a>
+<a href="https://www.theepochtimes.com/c-life-tradition">Life</a>
+<a href="https://www.theepochtimes.com/c-wellness">Mind &amp; Body</a>
+<a href="https://www.theepochtimes.com/c-arts-culture">Arts</a>
+<a href="https://www.theepochtimes.com/editions">Premium</a>
+<a href="https://www.theepochtimes.com/c-epoch-games">Games</a>
+<a href="https://www.theepochtimes.com/live">Livestream</a>
+<a href="javascript:void(0);">CLOSE</a>
+<a class="help_center geo_help_center" href="https://service.theepochtimes.com/web/"><span>Help Center</span></a>
+<a class="subscribe" href="https://subscribe.theepochtimes.com/p/?page=subhome"><span>subscribe</span></a>
+<a class="newsletter" href="https://www.theepochtimes.com/newsletter"><span>newsletter</span></a>
+<a class="newsstands" href="https://www.theepochtimes.com/where-to-buy-the-epoch-times-newspaper"><span>Newsstands</span></a>
+<a class="epochshop" href="https://epochshop.com/" target="_blank"><span>Epoch Shop</span></a>
+<a class="gift" href="https://offers.theepochtimes.com/gift" target="_blank"><span>Gift</span></a>
+<a href="https://www.theepochtimes.com/editors-picks">Editor’s Picks</a>
+<a href="https://www.theepochtimes.com/how-the-specter-of-communism-is-ruling-our-world">SPECIAL SERIES</a>
+<a href="https://www.theepochtimes.com/c-shen-yun">Special Coverage</a>
+<a href="https://www.theepochtimes.com/latest">LATEST ARTICLES</a>
+<a href="https://www.theepochtimes.com/us-news">US</a>
+<a href="https://www.theepochtimes.com/c-us-news">US News</a>
+<a href="https://www.theepochtimes.com/c-us-features">US Features</a>
+<a href="https://www.theepochtimes.com/c-us-politics">Politics</a>
+<a href="https://www.theepochtimes.com/c-crime-us">Crime and Incidents</a>
+<a href="https://www.theepochtimes.com/c-nyc">New York</a>
+<a href="https://www.theepochtimes.com/c-nor-cal-san-francisco">San Francisco</a>
+<a href="https://www.theepochtimes.com/c-so-cal-los-angeles">Los Angeles</a>
+<a href="https://www.theepochtimes.com/c-opinion">Opinion</a>
+<a href="https://www.theepochtimes.com/c-thinking-about-china">Thinking About China</a>
+<a href="https://www.theepochtimes.com/c-viewpoints">Viewpoints</a>
+<a href="https://www.theepochtimes.com/c-jiang-zemin-story">Unbridled Evil: The Corrupt Reign of Jiang Zemin in China</a>
+<a href="https://www.theepochtimes.com/c-readers-turn">The Reader’s Turn</a>
+<a href="https://www.theepochtimes.com/c-essay-contest">America Essay Contest</a>
+<a href="https://www.theepochtimes.com/c-china">China</a>
+<a href="https://www.theepochtimes.com/c-china-us-news">US-China Relations</a>
+<a href="https://www.theepochtimes.com/c-regime">Chinese Regime</a>
+<a href="https://www.theepochtimes.com/c-business-economy">Business &amp; Economy</a>
+<a href="https://www.theepochtimes.com/c-culture">Chinese Culture</a>
+<a href="https://www.theepochtimes.com/c-human-rights">China Human Rights</a>
+<a href="https://www.theepochtimes.com/c-society">Social Issues</a>
+<a href="https://www.theepochtimes.com/c-organ-harvesting-in-china">Organ Harvesting in China</a>
+<a href="https://www.theepochtimes.com/c-world">World</a>
+<a href="https://www.theepochtimes.com/c-africa">Africa</a>
+<a href="https://www.theepochtimes.com/c-americas">Americas</a>
+<a href="https://www.theepochtimes.com/c-asia-pacific">Asia &amp; Pacific</a>
+<a href="https://www.theepochtimes.com/c-canada2">Canada</a>
+<a href="https://www.theepochtimes.com/c-europe">Europe</a>
+<a href="https://www.theepochtimes.com/c-uk">UK</a>
+<a href="https://www.theepochtimes.com/c-australia">Australia</a>
+<a href="https://www.theepochtimes.com/c-international">International</a>
+<a href="https://www.theepochtimes.com/c-middle-east">Middle East</a>
+<a href="https://www.theepochtimes.com/c-business">Business &amp; Economy</a>
+<a href="https://www.theepochtimes.com/c-companies">Companies</a>
+<a href="https://www.theepochtimes.com/c-economies">Economies</a>
+<a href="https://www.theepochtimes.com/c-markets">Markets</a>
+<a href="https://www.theepochtimes.com/c-real-estate">Real Estate</a>
+<a href="https://www.theepochtimes.com/c-arts-culture">ARTS &amp; CULTURE</a>
+<a href="https://www.theepochtimes.com/c-fine-arts">Fine Arts &amp; Craftsmanship</a>
+<a href="https://www.theepochtimes.com/c-performing-arts">Performing Arts</a>
+<a href="https://www.theepochtimes.com/c-literature">Literature</a>
+<a href="https://www.theepochtimes.com/c-traditional-culture">Traditional Culture</a>
+<a href="https://www.theepochtimes.com/c-shen-yun">Shen Yun Special Coverage</a>
+<a href="https://www.theepochtimes.com/c-film-reviews">Film Reviews</a>
+<a href="https://www.theepochtimes.com/c-science">Science</a>
+<a href="https://www.theepochtimes.com/c-science-news">News</a>
+<a href="https://www.theepochtimes.com/c-space">Space</a>
+<a href="https://www.theepochtimes.com/c-environment">Environment</a>
+<a href="https://www.theepochtimes.com/c-tech">Tech</a>
+<a href="https://www.theepochtimes.com/c-tech-news">Tech News</a>
+<a href="https://www.theepochtimes.com/c-products-reviews">Tech Products &amp; Reviews</a>
+<a href="https://www.theepochtimes.com/c-tech-social-media">Social Media</a>
+<a href="https://www.theepochtimes.com/c-sports">Sports</a>
+<a href="https://www.theepochtimes.com/c-video">Video</a>
+<a href="https://www.theepochtimes.com/c-american-thought-leaders">American Thought Leaders</a>
+<a href="https://www.theepochtimes.com/c-china-insider">China Insider</a>
+<a href="https://www.theepochtimes.com/c-crossroads">Crossroads</a>
+<a href="https://www.theepochtimes.com/c-life-tradition">Life &amp; Tradition</a>
+<a href="https://www.theepochtimes.com/c-inspired">Inspired</a>
+<a href="https://www.theepochtimes.com/c-family-life-2">Family &amp; Home</a>
+<a href="https://www.theepochtimes.com/c-slice-of-life">People</a>
+<a href="https://www.theepochtimes.com/c-food-dining">Food &amp; Dining</a>
+<a href="https://www.theepochtimes.com/c-travel">Travel</a>
+<a href="https://www.theepochtimes.com/c-entertainment">Entertainment</a>
+<a href="https://www.theepochtimes.com/c-film-tv">Film &amp; TV</a>
+<a href="https://www.theepochtimes.com/c-entertainment-news">Entertainment News</a>
+<a href="https://www.theepochtimes.com/c-wellness">Mind &amp; Body</a>
+<a href="https://www.theepochtimes.com/c-health-news">News</a>
+<a href="https://www.theepochtimes.com/c-aging">Aging</a>
+<a href="https://www.theepochtimes.com/c-fitness-nutrition">Fitness &amp; Nutrition</a>
+<a href="https://www.theepochtimes.com/c-treatments-and-techniques">Treatments and Techniques</a>
+<a href="https://www.theepochtimes.com/c-traditional-chinese-medicine">Chinese Medicine</a>
+<a href="https://www.theepochtimes.com/c-mindset">Mindset</a>
+<a class="search_icon" href="javascript:void(0);">SEARCH</a>
+<a href="https://www.theepochtimes.com/c-inspiring-news"><img class="avatar" src="/assets/themes/eet/images/trending_topic_inspiring.jpg" alt="Trending Topic-inspiring"> 
+ <div class="block_name">
+   INSPIRING NEWS 
+ </div></a>
+<a href="https://www.theepochtimes.com/mama-cat-runs-into-burning-barn-to-save-kittens-suffers-severe-burns-saves-one-baby-cat_3927311.html"> 
+ <div class="title two_most">
+   Mama Cat Runs Into Burning Barn to Save Kittens, Suffers Severe Burns, Saves One Baby Cat 
+ </div> </a>
+<a href="https://www.theepochtimes.com/heliographic-artist-renders-incredible-paintings-using-sunlight-mirrors-and-lenses_3907520.html"> 
+ <div class="title two_most">
+   Heliographic Artist Renders Incredible Paintings Using Sunlight, Mirrors, and Lenses 
+ </div> </a>
+<a href="https://www.theepochtimes.com/texas-policeman-spots-2-hungry-horses-on-hurricane-devastated-property-feeds-them-every-day_3929321.html"> 
+ <div class="title two_most">
+   Texas Policeman Spots 2 Hungry Horses on Hurricane-Devastated Property, Decides to Step In 
+ </div> </a>
+<a href="https://www.theepochtimes.com/c-regional-news-regional-news"><img class="avatar" src="/assets/themes/eet/images/trending_topic_regional.jpg" alt="Trending Topic-regional"> 
+ <div class="block_name">
+   US REGIONAL NEWS 
+ </div></a>
+<a href="https://www.theepochtimes.com/ny-state-assembly-committee-meets-to-discuss-cuomo-impeachment_3940026.html"> 
+ <div class="title two_most">
+   NY State Assembly Committee Meets to Discuss Cuomo Impeachment 
+ </div> </a>
+<a href="https://www.theepochtimes.com/texas-democrats-who-fled-sue-texas-gov-abbott-for-causing-anxiety-embarrassment_3939125.html"> 
+ <div class="title two_most">
+   Texas Democrats Who Fled Sue Texas Gov. Abbott for Causing ‘Anxiety,’ ‘Embarrassment’ 
+ </div> </a>
+<a href="https://www.theepochtimes.com/californias-dixie-fire-grows-into-2nd-largest-in-state-history_3939042.html"> 
+ <div class="title two_most">
+   California’s Dixie Fire Grows Into 2nd Largest in State History 
+ </div> </a>
+<a href="https://www.theepochtimes.com/c-vaccines"><img class="avatar" src="/assets/themes/eet/images/trending_topic_vaccines.jpg" alt="Trending Topic-vaccines"> 
+ <div class="block_name">
+   VACCINES &amp; SAFETY 
+ </div></a>
+<a href="https://www.theepochtimes.com/canada-allows-non-essential-travel-for-fully-vaccinated-americans_3940227.html"> 
+ <div class="title two_most">
+   Canada Allows Non-Essential Travel for Fully Vaccinated Americans 
+ </div> </a>
+<a href="https://www.theepochtimes.com/nih-director-francis-collins-calls-for-new-covid-19-vaccine-mandates_3940092.html"> 
+ <div class="title two_most">
+   NIH Director Francis Collins Calls for New COVID-19 Vaccine Mandates 
+ </div> </a>
+<a href="https://www.theepochtimes.com/restrictions-on-unvaccinated-people-see-explosion-of-fake-vaccination-cards-researchers_3939988.html"> 
+ <div class="title two_most">
+   Restrictions on Unvaccinated People See Explosion of Fake Vaccination Cards: Researchers 
+ </div> </a>
+<a href="https://www.theepochtimes.com/democrats-unveil-3-5-trillion-social-safety-net-and-climate-change-spending-blueprint_3939980.html"> 
+ <div class="image"> 
+  <img src="https://img.theepochtimes.com/assets/uploads/2021/03/02/bernie-sanders-700x420.jpg" alt="Democrats Unveil $3.5 Trillion Social Safety Net and Climate Change Spending Blueprint"> 
+ </div> </a>
+<a href="https://www.theepochtimes.com/author-tom-ozimek">Tom Ozimek</a>
+<a href="https://www.theepochtimes.com/democrats-unveil-3-5-trillion-social-safety-net-and-climate-change-spending-blueprint_3939980.html"> 
+ <div class="title">
+   Democrats Unveil $3.5 Trillion Social Safety Net and Climate Change Spending Blueprint 
+ </div> </a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939980"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/democrats-unveil-3-5-trillion-social-safety-net-and-climate-change-spending-blueprint_3939980.html">comments<span class="comments" id="cmt_post_3939980"></span></a>
+<a href="https://www.theepochtimes.com/top-news">TOP STORIES</a>
+<a href="https://www.theepochtimes.com/73-shot-10-killed-in-chicago-over-the-weekend-police_3939780.html"><span class="title">73 Shot, 10 Killed in Chicago Over the Weekend: Police</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939780"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/73-shot-10-killed-in-chicago-over-the-weekend-police_3939780.html">comments<span class="comments" id="cmt_post_3939780"></span></a>
+<a href="https://www.theepochtimes.com/73-shot-10-killed-in-chicago-over-the-weekend-police_3939780.html"><span class="image"><img alt="73 Shot, 10 Killed in Chicago Over the Weekend: Police" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/chicago-shootings-205x123.jpg"> 
+  <noscript> 
+   <img alt="73 Shot, 10 Killed in Chicago Over the Weekend: Police" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/chicago-shootings-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/canada-allows-non-essential-travel-for-fully-vaccinated-americans_3940227.html"><span class="title">Canada Allows Non-Essential Travel for Fully Vaccinated Americans</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3940227"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/canada-allows-non-essential-travel-for-fully-vaccinated-americans_3940227.html">comments<span class="comments" id="cmt_post_3940227"></span></a>
+<a href="https://www.theepochtimes.com/canada-allows-non-essential-travel-for-fully-vaccinated-americans_3940227.html"><span class="image"><img alt="Canada Allows Non-Essential Travel for Fully Vaccinated Americans" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/US-canada-border-4-205x123.jpeg"> 
+  <noscript> 
+   <img alt="Canada Allows Non-Essential Travel for Fully Vaccinated Americans" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/US-canada-border-4-205x123.jpeg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/judge-weighs-whether-to-block-new-eviction-ban_3940192.html"><span class="title">Judge Weighs Whether to Block New Eviction Ban</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3940192"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/judge-weighs-whether-to-block-new-eviction-ban_3940192.html">comments<span class="comments" id="cmt_post_3940192"></span></a>
+<a href="https://www.theepochtimes.com/judge-weighs-whether-to-block-new-eviction-ban_3940192.html"><span class="image"><img alt="Judge Weighs Whether to Block New Eviction Ban" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2020/10/05/cdc-hq-2-205x123.jpg"> 
+  <noscript> 
+   <img alt="Judge Weighs Whether to Block New Eviction Ban" src="https://img.theepochtimes.com/assets/uploads/2020/10/05/cdc-hq-2-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/nih-director-francis-collins-calls-for-new-covid-19-vaccine-mandates_3940092.html"><span class="title">NIH Director Francis Collins Calls for New COVID-19 Vaccine Mandates</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3940092"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/nih-director-francis-collins-calls-for-new-covid-19-vaccine-mandates_3940092.html">comments<span class="comments" id="cmt_post_3940092"></span></a>
+<a href="https://www.theepochtimes.com/nih-director-francis-collins-calls-for-new-covid-19-vaccine-mandates_3940092.html"><span class="image"><img alt="NIH Director Francis Collins Calls for New COVID-19 Vaccine Mandates" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/02/25/Francis-Collins-2-205x123.jpg"> 
+  <noscript> 
+   <img alt="NIH Director Francis Collins Calls for New COVID-19 Vaccine Mandates" src="https://img.theepochtimes.com/assets/uploads/2021/02/25/Francis-Collins-2-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/team-usa-tops-gold-medals-at-tokyo-olympics-barely-beating-china_3939982.html"><span class="title">Team USA Tops Gold Medals at Tokyo Olympics, Beating China</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939982"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/team-usa-tops-gold-medals-at-tokyo-olympics-barely-beating-china_3939982.html">comments<span class="comments" id="cmt_post_3939982"></span></a>
+<a href="https://www.theepochtimes.com/team-usa-tops-gold-medals-at-tokyo-olympics-barely-beating-china_3939982.html"><span class="image"><img alt="Team USA Tops Gold Medals at Tokyo Olympics, Beating China" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/U.S.-Volleyball-1-1-205x123.jpg"> 
+  <noscript> 
+   <img alt="Team USA Tops Gold Medals at Tokyo Olympics, Beating China" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/U.S.-Volleyball-1-1-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/make-money-to-cure-mothers-illness-14-year-old-china-gold-medallists-wish_3939636.html"><span class="title">14-Year-Old Chinese Gold Medalist Hopes To Raise Enough Money to Cure Mother’s Illness</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939636"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/make-money-to-cure-mothers-illness-14-year-old-china-gold-medallists-wish_3939636.html">comments<span class="comments" id="cmt_post_3939636"></span></a>
+<a href="https://www.theepochtimes.com/make-money-to-cure-mothers-illness-14-year-old-china-gold-medallists-wish_3939636.html"><span class="image"><img alt="14-Year-Old Chinese Gold Medalist Hopes To Raise Enough Money to Cure Mother’s Illness" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/GettyImages-1332450680-1-205x123.jpg"> 
+  <noscript> 
+   <img alt="14-Year-Old Chinese Gold Medalist Hopes To Raise Enough Money to Cure Mother’s Illness" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/GettyImages-1332450680-1-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/restrictions-on-unvaccinated-people-see-explosion-of-fake-vaccination-cards-researchers_3939988.html"><span class="title">Restrictions on Unvaccinated People See Explosion of Fake Vaccination Cards: Researchers</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939988"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/restrictions-on-unvaccinated-people-see-explosion-of-fake-vaccination-cards-researchers_3939988.html">comments<span class="comments" id="cmt_post_3939988"></span></a>
+<a href="https://www.theepochtimes.com/restrictions-on-unvaccinated-people-see-explosion-of-fake-vaccination-cards-researchers_3939988.html"><span class="image"><img alt="Restrictions on Unvaccinated People See Explosion of Fake Vaccination Cards: Researchers" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2020/12/03/Vaccine-card-6424927-205x123.jpg"> 
+  <noscript> 
+   <img alt="Restrictions on Unvaccinated People See Explosion of Fake Vaccination Cards: Researchers" src="https://img.theepochtimes.com/assets/uploads/2020/12/03/Vaccine-card-6424927-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/vaccine-maker-biontech-sees-2nd-quarter-profits-soar_3939886.html"><span class="title">Vaccine-Maker BioNTech Sees 2nd-Quarter Profits Soar</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939886"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/vaccine-maker-biontech-sees-2nd-quarter-profits-soar_3939886.html">comments<span class="comments" id="cmt_post_3939886"></span></a>
+<a href="https://www.theepochtimes.com/vaccine-maker-biontech-sees-2nd-quarter-profits-soar_3939886.html"><span class="image"><img alt="Vaccine-Maker BioNTech Sees 2nd-Quarter Profits Soar" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/07/09/pfizer-205x123.jpg"> 
+  <noscript> 
+   <img alt="Vaccine-Maker BioNTech Sees 2nd-Quarter Profits Soar" src="https://img.theepochtimes.com/assets/uploads/2021/07/09/pfizer-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/taliban-seizes-6th-provincial-capital-in-afghanistan-government-retreats-without-fighting_3939909.html"><span class="title">Taliban Seizes 6th Provincial Capital in Afghanistan; Government Retreats ‘Without Fighting’</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939909"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/taliban-seizes-6th-provincial-capital-in-afghanistan-government-retreats-without-fighting_3939909.html">comments<span class="comments" id="cmt_post_3939909"></span></a>
+<a href="https://www.theepochtimes.com/taliban-seizes-6th-provincial-capital-in-afghanistan-government-retreats-without-fighting_3939909.html"><span class="image"><img alt="Taliban Seizes 6th Provincial Capital in Afghanistan; Government Retreats ‘Without Fighting’" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/08/Kunduz-205x123.jpg"> 
+  <noscript> 
+   <img alt="Taliban Seizes 6th Provincial Capital in Afghanistan; Government Retreats ‘Without Fighting’" src="https://img.theepochtimes.com/assets/uploads/2021/08/08/Kunduz-205x123.jpg"> 
+  </noscript><span class="premium_icon"></span></span></a>
+<a href="https://www.theepochtimes.com/texas-state-troopers-ramp-up-arrests-of-illegal-alien-trespassers_3938848.html"><span class="title">Texas State Troopers Ramp Up Arrests of Illegal Alien Trespassers</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938848"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/texas-state-troopers-ramp-up-arrests-of-illegal-alien-trespassers_3938848.html">comments<span class="comments" id="cmt_post_3938848"></span></a>
+<a href="https://www.theepochtimes.com/texas-state-troopers-ramp-up-arrests-of-illegal-alien-trespassers_3938848.html"><span class="image"><img alt="Texas State Troopers Ramp Up Arrests of Illegal Alien Trespassers" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/08/Border-Kinney-Trespassing-510A9083-205x123.jpg"> 
+  <noscript> 
+   <img alt="Texas State Troopers Ramp Up Arrests of Illegal Alien Trespassers" src="https://img.theepochtimes.com/assets/uploads/2021/08/08/Border-Kinney-Trespassing-510A9083-205x123.jpg"> 
+  </noscript><span class="premium_icon"></span></span></a>
+<a href="https://www.theepochtimes.com/dollar-hits-4-month-high-against-euro-as-jobs-data-triggers-fed-tapering-bets_3939824.html"><span class="title">Dollar Hits 4-Month High Against Euro as Jobs Data Triggers Fed Tapering Bets</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939824"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/dollar-hits-4-month-high-against-euro-as-jobs-data-triggers-fed-tapering-bets_3939824.html">comments<span class="comments" id="cmt_post_3939824"></span></a>
+<a href="https://www.theepochtimes.com/dollar-hits-4-month-high-against-euro-as-jobs-data-triggers-fed-tapering-bets_3939824.html"><span class="image"><img alt="Dollar Hits 4-Month High Against Euro as Jobs Data Triggers Fed Tapering Bets" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/04/19/us-dollar-205x123.jpg"> 
+  <noscript> 
+   <img alt="Dollar Hits 4-Month High Against Euro as Jobs Data Triggers Fed Tapering Bets" src="https://img.theepochtimes.com/assets/uploads/2021/04/19/us-dollar-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/whats-in-wildfire-smoke_3932268.html"><span class="title">Health: What’s in Wildfire Smoke?</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3932268"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/whats-in-wildfire-smoke_3932268.html">comments<span class="comments" id="cmt_post_3932268"></span></a>
+<a href="https://www.theepochtimes.com/whats-in-wildfire-smoke_3932268.html"><span class="image"><img alt="Health: What’s in Wildfire Smoke?" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/08/Large-flames-of-forest-fire-205x123.jpg"> 
+  <noscript> 
+   <img alt="Health: What’s in Wildfire Smoke?" src="https://img.theepochtimes.com/assets/uploads/2021/08/08/Large-flames-of-forest-fire-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/mcconnell-biden-should-withdraw-chipman-as-nominee-to-head-firearms-bureau_3939741.html"><span class="title">McConnell: Biden Should Withdraw Chipman as Nominee to Head Firearms Bureau</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939741"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/mcconnell-biden-should-withdraw-chipman-as-nominee-to-head-firearms-bureau_3939741.html">comments<span class="comments" id="cmt_post_3939741"></span></a>
+<a href="https://www.theepochtimes.com/mcconnell-biden-should-withdraw-chipman-as-nominee-to-head-firearms-bureau_3939741.html"><span class="image"><img alt="McConnell: Biden Should Withdraw Chipman as Nominee to Head Firearms Bureau" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/mcconnell-in-suit-205x123.jpg"> 
+  <noscript> 
+   <img alt="McConnell: Biden Should Withdraw Chipman as Nominee to Head Firearms Bureau" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/mcconnell-in-suit-205x123.jpg"> 
+  </noscript><span class="premium_icon"></span></span></a>
+<a href="https://www.theepochtimes.com/california-republican-party-decides-not-to-endorse-any-recall-election-candidate_3939743.html"><span class="title">California Republican Party Decides Not to Endorse Any Recall Election Candidate</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939743"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/california-republican-party-decides-not-to-endorse-any-recall-election-candidate_3939743.html">comments<span class="comments" id="cmt_post_3939743"></span></a>
+<a href="https://www.theepochtimes.com/california-republican-party-decides-not-to-endorse-any-recall-election-candidate_3939743.html"><span class="image"><img alt="California Republican Party Decides Not to Endorse Any Recall Election Candidate" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/07/20/Larry-Elder-1-205x123.jpg"> 
+  <noscript> 
+   <img alt="California Republican Party Decides Not to Endorse Any Recall Election Candidate" src="https://img.theepochtimes.com/assets/uploads/2021/07/20/Larry-Elder-1-205x123.jpg"> 
+  </noscript><span class="premium_icon"></span></span></a>
+<a href="https://www.theepochtimes.com/top-cuomo-aide-melissa-derosa-steps-down-as-he-resists-resignation-calls_3939705.html"><span class="title">Top Cuomo Aide Melissa DeRosa Steps Down as Governor Resists Resignation Calls</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939705"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/top-cuomo-aide-melissa-derosa-steps-down-as-he-resists-resignation-calls_3939705.html">comments<span class="comments" id="cmt_post_3939705"></span></a>
+<a href="https://www.theepochtimes.com/top-cuomo-aide-melissa-derosa-steps-down-as-he-resists-resignation-calls_3939705.html"><span class="image"><img alt="Top Cuomo Aide Melissa DeRosa Steps Down as Governor Resists Resignation Calls" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/derosa-and-cuomo-205x123.jpg"> 
+  <noscript> 
+   <img alt="Top Cuomo Aide Melissa DeRosa Steps Down as Governor Resists Resignation Calls" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/derosa-and-cuomo-205x123.jpg"> 
+  </noscript><span class="premium_icon"></span></span></a>
+<a href="https://www.theepochtimes.com/norwegian-cruise-line-can-ask-florida-passengers-for-vaccination-proof-judge-rules_3939708.html"><span class="title">Norwegian Cruise Line Can Ask Florida Passengers for Vaccination Proof, Judge Rules</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939708"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/norwegian-cruise-line-can-ask-florida-passengers-for-vaccination-proof-judge-rules_3939708.html">comments<span class="comments" id="cmt_post_3939708"></span></a>
+<a href="https://www.theepochtimes.com/norwegian-cruise-line-can-ask-florida-passengers-for-vaccination-proof-judge-rules_3939708.html"><span class="image"><img alt="Norwegian Cruise Line Can Ask Florida Passengers for Vaccination Proof, Judge Rules" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/Norwegian-Cruise-Line-ship-205x123.jpg"> 
+  <noscript> 
+   <img alt="Norwegian Cruise Line Can Ask Florida Passengers for Vaccination Proof, Judge Rules" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/Norwegian-Cruise-Line-ship-205x123.jpg"> 
+  </noscript><span class="premium_icon"></span></span></a>
+<a href="https://www.theepochtimes.com/the-ripple-effects-of-self-esteem_3930662.html"><span class="title">Mindset: The Ripple Effects of Self-Esteem</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3930662"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/the-ripple-effects-of-self-esteem_3930662.html">comments<span class="comments" id="cmt_post_3930662"></span></a>
+<a href="https://www.theepochtimes.com/the-ripple-effects-of-self-esteem_3930662.html"><span class="image"><img alt="Mindset: The Ripple Effects of Self-Esteem" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/08/woman-hugging-her-own-reflection-205x123.jpg"> 
+  <noscript> 
+   <img alt="Mindset: The Ripple Effects of Self-Esteem" src="https://img.theepochtimes.com/assets/uploads/2021/08/08/woman-hugging-her-own-reflection-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/judge-orders-oklahoma-to-reinstate-300-federal-jobless-benefit_3939621.html"><span class="title">Judge Orders Oklahoma to Reinstate $300 Federal Jobless Benefit</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939621"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/judge-orders-oklahoma-to-reinstate-300-federal-jobless-benefit_3939621.html">comments<span class="comments" id="cmt_post_3939621"></span></a>
+<a href="https://www.theepochtimes.com/judge-orders-oklahoma-to-reinstate-300-federal-jobless-benefit_3939621.html"><span class="image"><img alt="Judge Orders Oklahoma to Reinstate $300 Federal Jobless Benefit" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/california-job-fair-205x123.jpg"> 
+  <noscript> 
+   <img alt="Judge Orders Oklahoma to Reinstate $300 Federal Jobless Benefit" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/california-job-fair-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/senate-votes-to-cut-off-debate-on-1-trillion-bipartisan-infrastructure-bill_3939539.html"><span class="title">Senate Votes to Cut Off Debate on $1 Trillion Bipartisan Infrastructure Bill</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939539"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/senate-votes-to-cut-off-debate-on-1-trillion-bipartisan-infrastructure-bill_3939539.html">comments<span class="comments" id="cmt_post_3939539"></span></a>
+<a href="https://www.theepochtimes.com/senate-votes-to-cut-off-debate-on-1-trillion-bipartisan-infrastructure-bill_3939539.html"><span class="image"><img alt="Senate Votes to Cut Off Debate on $1 Trillion Bipartisan Infrastructure Bill" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/mcconnell-205x123.jpg"> 
+  <noscript> 
+   <img alt="Senate Votes to Cut Off Debate on $1 Trillion Bipartisan Infrastructure Bill" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/mcconnell-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/aoc-is-not-ruling-out-2022-primary-challenge-to-schumer_3939431.html"><span class="title">AOC Not Ruling Out 2022 Primary Challenge to Schumer</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939431"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/aoc-is-not-ruling-out-2022-primary-challenge-to-schumer_3939431.html">comments<span class="comments" id="cmt_post_3939431"></span></a>
+<a href="https://www.theepochtimes.com/aoc-is-not-ruling-out-2022-primary-challenge-to-schumer_3939431.html"><span class="image"><img alt="AOC Not Ruling Out 2022 Primary Challenge to Schumer" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/Alexandria-Ocasio-Cortez-2-e1628478644454-205x123.jpg"> 
+  <noscript> 
+   <img alt="AOC Not Ruling Out 2022 Primary Challenge to Schumer" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/Alexandria-Ocasio-Cortez-2-e1628478644454-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/beijing-conducting-probe-into-blackstones-3-billion-bid-on-chinese-real-estate-developer_3939053.html"><span class="title">Beijing Conducting Probe Into Blackstone’s $3 Billion Bid on Chinese Real Estate Developer</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939053"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/beijing-conducting-probe-into-blackstones-3-billion-bid-on-chinese-real-estate-developer_3939053.html">comments<span class="comments" id="cmt_post_3939053"></span></a>
+<a href="https://www.theepochtimes.com/beijing-conducting-probe-into-blackstones-3-billion-bid-on-chinese-real-estate-developer_3939053.html"><span class="image"><img alt="Beijing Conducting Probe Into Blackstone’s $3 Billion Bid on Chinese Real Estate Developer" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/08/GettyImages-1210437926-205x123.jpg"> 
+  <noscript> 
+   <img alt="Beijing Conducting Probe Into Blackstone’s $3 Billion Bid on Chinese Real Estate Developer" src="https://img.theepochtimes.com/assets/uploads/2021/08/08/GettyImages-1210437926-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/minnesota-supreme-court-upholds-states-gun-carrying-law_3939247.html"><span class="title">Minnesota Supreme Court Upholds State’s Gun-Carrying Law</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939247"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/minnesota-supreme-court-upholds-states-gun-carrying-law_3939247.html">comments<span class="comments" id="cmt_post_3939247"></span></a>
+<a href="https://www.theepochtimes.com/minnesota-supreme-court-upholds-states-gun-carrying-law_3939247.html"><span class="image"><img alt="Minnesota Supreme Court Upholds State’s Gun-Carrying Law" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/08/GettyImages-503101328-205x123.jpg"> 
+  <noscript> 
+   <img alt="Minnesota Supreme Court Upholds State’s Gun-Carrying Law" src="https://img.theepochtimes.com/assets/uploads/2021/08/08/GettyImages-503101328-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/texas-democrats-who-fled-sue-texas-gov-abbott-for-causing-anxiety-embarrassment_3939125.html"><span class="title">Texas Democrats Who Fled Sue Texas Gov. Abbott for Causing ‘Anxiety,’ ‘Embarrassment’</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939125"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/texas-democrats-who-fled-sue-texas-gov-abbott-for-causing-anxiety-embarrassment_3939125.html">comments<span class="comments" id="cmt_post_3939125"></span></a>
+<a href="https://www.theepochtimes.com/texas-democrats-who-fled-sue-texas-gov-abbott-for-causing-anxiety-embarrassment_3939125.html"><span class="image"><img alt="Texas Democrats Who Fled Sue Texas Gov. Abbott for Causing ‘Anxiety,’ ‘Embarrassment’" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/07/19/Epoch-Times-Abbott-510A8276-205x123.jpg"> 
+  <noscript> 
+   <img alt="Texas Democrats Who Fled Sue Texas Gov. Abbott for Causing ‘Anxiety,’ ‘Embarrassment’" src="https://img.theepochtimes.com/assets/uploads/2021/07/19/Epoch-Times-Abbott-510A8276-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/lebanons-economy-quickly-collapsing-amid-hyperinflation-power-outages_3939156.html"><span class="title">Lebanon’s Economy Quickly Collapsing Amid Hyperinflation, Power Outages</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939156"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/lebanons-economy-quickly-collapsing-amid-hyperinflation-power-outages_3939156.html">comments<span class="comments" id="cmt_post_3939156"></span></a>
+<a href="https://www.theepochtimes.com/lebanons-economy-quickly-collapsing-amid-hyperinflation-power-outages_3939156.html"><span class="image"><img alt="Lebanon’s Economy Quickly Collapsing Amid Hyperinflation, Power Outages" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2020/08/10/LEBANON-SECURITY-BLAST-PROTESTS-205x123.jpg"> 
+  <noscript> 
+   <img alt="Lebanon’s Economy Quickly Collapsing Amid Hyperinflation, Power Outages" src="https://img.theepochtimes.com/assets/uploads/2020/08/10/LEBANON-SECURITY-BLAST-PROTESTS-205x123.jpg"> 
+  </noscript><span class="premium_icon"></span></span></a>
+<a href="https://www.theepochtimes.com/californias-dixie-fire-grows-into-2nd-largest-in-state-history_3939042.html"><span class="title">California’s Dixie Fire Grows Into 2nd Largest in State History</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939042"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/californias-dixie-fire-grows-into-2nd-largest-in-state-history_3939042.html">comments<span class="comments" id="cmt_post_3939042"></span></a>
+<a href="https://www.theepochtimes.com/californias-dixie-fire-grows-into-2nd-largest-in-state-history_3939042.html"><span class="image"><img alt="California’s Dixie Fire Grows Into 2nd Largest in State History" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/06/Greenville-fire-2-205x123.jpg"> 
+  <noscript> 
+   <img alt="California’s Dixie Fire Grows Into 2nd Largest in State History" src="https://img.theepochtimes.com/assets/uploads/2021/08/06/Greenville-fire-2-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/top-health-expert-says-dire-covid-19-predictions-were-off-for-uk_3938953.html"><span class="title">Top Health Expert Says Dire COVID-19 Predictions Were ‘Off’ for UK</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938953"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/top-health-expert-says-dire-covid-19-predictions-were-off-for-uk_3938953.html">comments<span class="comments" id="cmt_post_3938953"></span></a>
+<a href="https://www.theepochtimes.com/top-health-expert-says-dire-covid-19-predictions-were-off-for-uk_3938953.html"><span class="image"><img alt="Top Health Expert Says Dire COVID-19 Predictions Were ‘Off’ for UK" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2020/05/18/NeilFerguson-Reuters-screenshot-205x123.jpg"> 
+  <noscript> 
+   <img alt="Top Health Expert Says Dire COVID-19 Predictions Were ‘Off’ for UK" src="https://img.theepochtimes.com/assets/uploads/2020/05/18/NeilFerguson-Reuters-screenshot-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/fauci-expects-flood-of-covid-vaccine-mandates-after-fda-approval_3938900.html"><span class="title">Fauci Expects ‘Flood’ of COVID Vaccine Mandates After FDA Approval</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938900"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/fauci-expects-flood-of-covid-vaccine-mandates-after-fda-approval_3938900.html">comments<span class="comments" id="cmt_post_3938900"></span></a>
+<a href="https://www.theepochtimes.com/fauci-expects-flood-of-covid-vaccine-mandates-after-fda-approval_3938900.html"><span class="image"><img alt="Fauci Expects ‘Flood’ of COVID Vaccine Mandates After FDA Approval" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/02/21/CCP-virus-Fauci-2021-02-21_1-205x123.jpg"> 
+  <noscript> 
+   <img alt="Fauci Expects ‘Flood’ of COVID Vaccine Mandates After FDA Approval" src="https://img.theepochtimes.com/assets/uploads/2021/02/21/CCP-virus-Fauci-2021-02-21_1-205x123.jpg"> 
+  </noscript><span class="premium_icon"></span></span></a>
+<a href="https://www.theepochtimes.com/us-suffered-in-afghanistan-for-its-policies-towards-pakistan-author-of-durands-curse_3936178.html"><span class="title">US Suffered in Afghanistan for Its Policies Toward Pakistan: Author of ‘Durand’s Curse’</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3936178"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/us-suffered-in-afghanistan-for-its-policies-towards-pakistan-author-of-durands-curse_3936178.html">comments<span class="comments" id="cmt_post_3936178"></span></a>
+<a href="https://www.theepochtimes.com/us-suffered-in-afghanistan-for-its-policies-towards-pakistan-author-of-durands-curse_3936178.html"><span class="image"><img alt="US Suffered in Afghanistan for Its Policies Toward Pakistan: Author of ‘Durand’s Curse’" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/07/05/GettyImages-1233204389_20-205x123.jpg"> 
+  <noscript> 
+   <img alt="US Suffered in Afghanistan for Its Policies Toward Pakistan: Author of ‘Durand’s Curse’" src="https://img.theepochtimes.com/assets/uploads/2021/07/05/GettyImages-1233204389_20-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/florida-man-fined-3000-for-expletive-laden-political-signs-gets-help-from-civil-liberties-group_3938803.html"><span class="title">Florida Man Fined $3,000 for Expletive-Laden Political Signs Gets Help From Civil Liberties Group</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938803"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/florida-man-fined-3000-for-expletive-laden-political-signs-gets-help-from-civil-liberties-group_3938803.html">comments<span class="comments" id="cmt_post_3938803"></span></a>
+<a href="https://www.theepochtimes.com/florida-man-fined-3000-for-expletive-laden-political-signs-gets-help-from-civil-liberties-group_3938803.html"><span class="image"><img alt="Florida Man Fined $3,000 for Expletive-Laden Political Signs Gets Help From Civil Liberties Group" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/08/yard-sign-205x123.jpeg"> 
+  <noscript> 
+   <img alt="Florida Man Fined $3,000 for Expletive-Laden Political Signs Gets Help From Civil Liberties Group" src="https://img.theepochtimes.com/assets/uploads/2021/08/08/yard-sign-205x123.jpeg"> 
+  </noscript><span class="premium_icon"></span></span></a>
+<a href="https://www.theepochtimes.com/inflation-and-the-price-of-goods-what-to-buy-now-and-what-to-avoid_3938781.html"><span class="title">Inflation and the Price of Goods: What to Buy Now and What to Avoid</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938781"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/inflation-and-the-price-of-goods-what-to-buy-now-and-what-to-avoid_3938781.html">comments<span class="comments" id="cmt_post_3938781"></span></a>
+<a href="https://www.theepochtimes.com/inflation-and-the-price-of-goods-what-to-buy-now-and-what-to-avoid_3938781.html"><span class="image"><img alt="Inflation and the Price of Goods: What to Buy Now and What to Avoid" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/08/car-dealership-205x123.jpeg"> 
+  <noscript> 
+   <img alt="Inflation and the Price of Goods: What to Buy Now and What to Avoid" src="https://img.theepochtimes.com/assets/uploads/2021/08/08/car-dealership-205x123.jpeg"> 
+  </noscript><span class="premium_icon"></span></span></a>
+<a href="https://www.theepochtimes.com/no-vaccine-passports-massive-protests-across-france-over-covid-rules-starting-monday_3938772.html"><span class="title">‘No Vaccine Passports’: Massive Protests Across France Over New COVID Rules</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938772"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/no-vaccine-passports-massive-protests-across-france-over-covid-rules-starting-monday_3938772.html">comments<span class="comments" id="cmt_post_3938772"></span></a>
+<a href="https://www.theepochtimes.com/no-vaccine-passports-massive-protests-across-france-over-covid-rules-starting-monday_3938772.html"><span class="image"><img alt="‘No Vaccine Passports’: Massive Protests Across France Over New COVID Rules" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/08/protest-vaccine-passports-205x123.jpg"> 
+  <noscript> 
+   <img alt="‘No Vaccine Passports’: Massive Protests Across France Over New COVID Rules" src="https://img.theepochtimes.com/assets/uploads/2021/08/08/protest-vaccine-passports-205x123.jpg"> 
+  </noscript><span class="premium_icon"></span></span></a>
+<a href="https://www.theepochtimes.com/us-embassy-in-kabul-urges-americans-to-leave-afghanistan-immediately_3938709.html"><span class="title">US Embassy in Kabul Urges Americans to Leave Afghanistan Immediately</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938709"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/us-embassy-in-kabul-urges-americans-to-leave-afghanistan-immediately_3938709.html">comments<span class="comments" id="cmt_post_3938709"></span></a>
+<a href="https://www.theepochtimes.com/us-embassy-in-kabul-urges-americans-to-leave-afghanistan-immediately_3938709.html"><span class="image"><img alt="US Embassy in Kabul Urges Americans to Leave Afghanistan Immediately" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/06/green-zone-in-Kabul-205x123.jpg"> 
+  <noscript> 
+   <img alt="US Embassy in Kabul Urges Americans to Leave Afghanistan Immediately" src="https://img.theepochtimes.com/assets/uploads/2021/08/06/green-zone-in-Kabul-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/doj-launches-investigation-of-phoenix-police-department_3938723.html"><span class="title">DOJ Opens Investigation of Phoenix Police Department</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938723"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/doj-launches-investigation-of-phoenix-police-department_3938723.html">comments<span class="comments" id="cmt_post_3938723"></span></a>
+<a href="https://www.theepochtimes.com/doj-launches-investigation-of-phoenix-police-department_3938723.html"><span class="image"><img alt="DOJ Opens Investigation of Phoenix Police Department" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/02/04/20210204090256-601c0b9b2ad63697305b7f0bjpeg-205x123.jpg"> 
+  <noscript> 
+   <img alt="DOJ Opens Investigation of Phoenix Police Department" src="https://img.theepochtimes.com/assets/uploads/2021/02/04/20210204090256-601c0b9b2ad63697305b7f0bjpeg-205x123.jpg"> 
+  </noscript><span class="premium_icon"></span></span></a>
+<a href="https://www.theepochtimes.com/american-treasures-meredith-willson-the-real-music-man_3935435.html"><span class="title">Art: American Treasures: Meredith Willson, the Real 'Music Man'</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3935435"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/american-treasures-meredith-willson-the-real-music-man_3935435.html">comments<span class="comments" id="cmt_post_3935435"></span></a>
+<a href="https://www.theepochtimes.com/american-treasures-meredith-willson-the-real-music-man_3935435.html"><span class="image"><img alt="Art: American Treasures: Meredith Willson, the Real 'Music Man'" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/06/8_11_the-music-man_lc6o9a-1962-film_Preston-Jones-205x123.jpg"> 
+  <noscript> 
+   <img alt="Art: American Treasures: Meredith Willson, the Real 'Music Man'" src="https://img.theepochtimes.com/assets/uploads/2021/08/06/8_11_the-music-man_lc6o9a-1962-film_Preston-Jones-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/data-suggests-vaccines-make-limited-difference-in-infectiousness-of-delta-variant-phe_3928179.html"><span class="title">Data Suggest Vaccines Make ‘Limited Difference in Infectiousness’ of Delta Variant: PHE</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3928179"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/data-suggests-vaccines-make-limited-difference-in-infectiousness-of-delta-variant-phe_3928179.html">comments<span class="comments" id="cmt_post_3928179"></span></a>
+<a href="https://www.theepochtimes.com/data-suggests-vaccines-make-limited-difference-in-infectiousness-of-delta-variant-phe_3928179.html"><span class="image"><img alt="Data Suggest Vaccines Make ‘Limited Difference in Infectiousness’ of Delta Variant: PHE" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/05/30/featureimage-205x123.jpg"> 
+  <noscript> 
+   <img alt="Data Suggest Vaccines Make ‘Limited Difference in Infectiousness’ of Delta Variant: PHE" src="https://img.theepochtimes.com/assets/uploads/2021/05/30/featureimage-205x123.jpg"> 
+  </noscript><span class="premium_icon"></span></span></a>
+<a href="https://www.theepochtimes.com/top-news">show more<span class="arrow_right"></span></a>
+<a href="mailto:newsroom@epochtimes.com" target="_top"><img src="https://img.theepochtimes.com/assets/uploads/2020/11/13/NewsTipBannerx2.jpg" alt="Have a News Tip?"></a>
+<a href="https://www.theepochtimes.com/c-tokyo-2020-olympics"> <img src="https://img.theepochtimes.com/assets/uploads/2021/07/23/TokyoOlympics.jpg" alt="Tokyo 2020 Olympics"> </a>
+<a href="https://www.theepochtimes.com/team-usa-tops-gold-medals-at-tokyo-olympics-barely-beating-china_3939982.html"><img src="https://img.theepochtimes.com/assets/uploads/2021/08/09/U.S.-Volleyball-1-1-205x123.jpg" alt="Team USA Tops Gold Medals at Tokyo Olympics, Beating China"></a>
+<a href="https://www.theepochtimes.com/team-usa-tops-gold-medals-at-tokyo-olympics-barely-beating-china_3939982.html"> 
+ <div class="title three_most">
+   Team USA Tops Gold Medals at Tokyo Olympics, Beating China 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939982"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/team-usa-tops-gold-medals-at-tokyo-olympics-barely-beating-china_3939982.html">comments<span class="comments" id="cmt_post_3939982"></span></a>
+<a href="https://www.theepochtimes.com/make-money-to-cure-mothers-illness-14-year-old-china-gold-medallists-wish_3939636.html"><img src="https://img.theepochtimes.com/assets/uploads/2021/08/09/GettyImages-1332450680-1-205x123.jpg" alt="14-Year-Old Chinese Gold Medalist Hopes To Raise Enough Money to Cure Mother’s Illness"></a>
+<a href="https://www.theepochtimes.com/make-money-to-cure-mothers-illness-14-year-old-china-gold-medallists-wish_3939636.html"> 
+ <div class="title three_most">
+   14-Year-Old Chinese Gold Medalist Hopes To Raise Enough Money to Cure Mother’s Illness 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939636"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/make-money-to-cure-mothers-illness-14-year-old-china-gold-medallists-wish_3939636.html">comments<span class="comments" id="cmt_post_3939636"></span></a>
+<a href="https://www.theepochtimes.com/russian-rhythmic-dynasty-topples-bulgaria-gets-the-gold_3938756.html"><img src="https://img.theepochtimes.com/assets/uploads/2021/08/08/Russia-gymastics-Olympics-e1628455712568-205x123.jpg" alt="Russian Rhythmic Dynasty Topples, Bulgaria Gets the Gold"></a>
+<a href="https://www.theepochtimes.com/russian-rhythmic-dynasty-topples-bulgaria-gets-the-gold_3938756.html"> 
+ <div class="title three_most">
+   Russian Rhythmic Dynasty Topples, Bulgaria Gets the Gold 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938756"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/russian-rhythmic-dynasty-topples-bulgaria-gets-the-gold_3938756.html">comments<span class="comments" id="cmt_post_3938756"></span></a>
+<a href="https://www.theepochtimes.com/japan-has-its-best-olympic-medal-haul-27-gold-58-overall_3938765.html"><img src="https://img.theepochtimes.com/assets/uploads/2021/08/08/8E351C1E-7A10-4EA2-8C19-04898984D92F-205x123.jpeg" alt="Japan Has Its Best Olympic Medal Haul: 27 Gold, 58 Overall"></a>
+<a href="https://www.theepochtimes.com/japan-has-its-best-olympic-medal-haul-27-gold-58-overall_3938765.html"> 
+ <div class="title three_most">
+   Japan Has Its Best Olympic Medal Haul: 27 Gold, 58 Overall 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938765"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/japan-has-its-best-olympic-medal-haul-27-gold-58-overall_3938765.html">comments<span class="comments" id="cmt_post_3938765"></span></a>
+<a href="https://www.theepochtimes.com/c-tokyo-2020-olympics">show more<span class="arrow_right"></span></a>
+<a href="https://www.theepochtimes.com/ccp-virus"><img src="/assets/themes/eet/images/coronavirus_frontpage_m.png" alt="CCPVIRUS OUTBREAK"></a>
+<a href="https://www.theepochtimes.com/china-punishes-over-40-officials-for-pandemic-failing_3940286.html"> 
+ <div class="title two_most">
+   China Punishes Over 40 Officials for Pandemic Failing 
+ </div> </a>
+<a href="https://www.theepochtimes.com/canada-allows-non-essential-travel-for-fully-vaccinated-americans_3940227.html"> 
+ <div class="title two_most">
+   Canada Allows Non-Essential Travel for Fully Vaccinated Americans 
+ </div> </a>
+<a href="https://www.theepochtimes.com/nih-director-francis-collins-calls-for-new-covid-19-vaccine-mandates_3940092.html"> 
+ <div class="title two_most">
+   NIH Director Francis Collins Calls for New COVID-19 Vaccine Mandates 
+ </div> </a>
+<a href="https://www.theepochtimes.com/restrictions-on-unvaccinated-people-see-explosion-of-fake-vaccination-cards-researchers_3939988.html"> 
+ <div class="title two_most">
+   Restrictions on Unvaccinated People See Explosion of Fake Vaccination Cards: Researchers 
+ </div> </a>
+<a href="https://www.theepochtimes.com/vaccine-maker-biontech-sees-2nd-quarter-profits-soar_3939886.html"> 
+ <div class="title two_most">
+   Vaccine-Maker BioNTech Sees 2nd-Quarter Profits Soar 
+ </div> </a>
+<a href="https://www.theepochtimes.com/ccp-virus">show more<span class="arrow_right"></span></a>
+<a href="https://www.theepochtimes.com/c-job-openings"> <img src="https://img.theepochtimes.com/assets/uploads/2021/07/10/job_ad.jpg" alt="The Epoch Times is hiring"> </a>
+<a href="https://www.theepochtimes.com/editors-picks">EDITOR'S PICKS</a>
+<a href="https://www.theepochtimes.com/texas-state-troopers-ramp-up-arrests-of-illegal-alien-trespassers_3938848.html"><img src="https://img.theepochtimes.com/assets/uploads/2021/08/08/Border-Kinney-Trespassing-510A9083-205x123.jpg" alt="Texas State Troopers Ramp Up Arrests of Illegal Alien Trespassers"><span class="premium_icon"></span></a>
+<a href="https://www.theepochtimes.com/texas-state-troopers-ramp-up-arrests-of-illegal-alien-trespassers_3938848.html"> 
+ <div class="title three_most">
+   Texas State Troopers Ramp Up Arrests of Illegal Alien Trespassers 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938848"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/texas-state-troopers-ramp-up-arrests-of-illegal-alien-trespassers_3938848.html">comments<span class="comments" id="cmt_post_3938848"></span></a>
+<a href="https://www.theepochtimes.com/nyc-restaurants-taken-aback-by-news-of-vaccine-passport-requirement_3934976.html"><img src="https://img.theepochtimes.com/assets/uploads/2021/08/05/Karla-Martinez-Chirp-Epoch-Times-DSC00004-205x123.jpg" alt="NYC Restaurants Taken Aback by News of Vaccine Passport Requirement"><span class="premium_icon"></span></a>
+<a href="https://www.theepochtimes.com/nyc-restaurants-taken-aback-by-news-of-vaccine-passport-requirement_3934976.html"> 
+ <div class="title three_most">
+   NYC Restaurants Taken Aback by News of Vaccine Passport Requirement 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3934976"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/nyc-restaurants-taken-aback-by-news-of-vaccine-passport-requirement_3934976.html">comments<span class="comments" id="cmt_post_3934976"></span></a>
+<a href="https://www.theepochtimes.com/taxes-separate-thriving-missouri-from-dying-illinois_3918621.html"><img src="https://img.theepochtimes.com/assets/uploads/2021/07/29/Frontpage-photo-July282021-205x123.jpg" alt="Taxes Separate Dying Illinois From Thriving Missouri"><span class="premium_icon"></span></a>
+<a href="https://www.theepochtimes.com/taxes-separate-thriving-missouri-from-dying-illinois_3918621.html"> 
+ <div class="title three_most">
+   Taxes Separate Dying Illinois From Thriving Missouri 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3918621"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/taxes-separate-thriving-missouri-from-dying-illinois_3918621.html">comments<span class="comments" id="cmt_post_3918621"></span></a>
+<a href="https://www.theepochtimes.com/on-mexican-side-of-border-a-well-worn-path-to-cross-illegally_3920687.html"><img src="https://img.theepochtimes.com/assets/uploads/2021/07/27/Border-Acuna-Mexico-510A8881-205x123.jpg" alt="Thousands of Illegal Aliens Force Proxy Ports of Entry to Form Along Border"></a>
+<a href="https://www.theepochtimes.com/on-mexican-side-of-border-a-well-worn-path-to-cross-illegally_3920687.html"> 
+ <div class="title three_most">
+   Thousands of Illegal Aliens Force Proxy Ports of Entry to Form Along Border 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3920687"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/on-mexican-side-of-border-a-well-worn-path-to-cross-illegally_3920687.html">comments<span class="comments" id="cmt_post_3920687"></span></a>
+<a href="https://www.theepochtimes.com/editors-picks">show more<span class="arrow_right"></span></a>
+<a href="https://www.theepochtimes.com/c-shen-yun"><img src="https://img.theepochtimes.com/assets/uploads/2021/06/26/SYSC3.jpg" alt="Shen Yun"></a>
+<a href="https://www.theepochtimes.com/former-guangzhou-ballet-dancer-shares-her-message-of-truth_3939422.html"><img src="https://img.theepochtimes.com/assets/uploads/2021/08/09/61-20210808-SaltLake-IleneEng-LisaFifield-GuangzhouBallet-1-205x123.jpg" alt="Former Guangzhou Ballet Dancer Shares Her Message of Truth"></a>
+<a href="https://www.theepochtimes.com/former-guangzhou-ballet-dancer-shares-her-message-of-truth_3939422.html"> 
+ <div class="title three_most">
+   Former Guangzhou Ballet Dancer Shares Her Message of Truth 
+ </div></a>
+<a href="https://www.theepochtimes.com/san-antonio-audiences-praise-shen-yuns-excellence-and-advocacy_3938713.html"><img src="https://img.theepochtimes.com/assets/uploads/2021/08/09/00-20210807-7pm-SanAntonio-theatre-picture-205x123.jpg" alt="San Antonio Audiences Praise Shen Yun’s Excellence and Advocacy"></a>
+<a href="https://www.theepochtimes.com/san-antonio-audiences-praise-shen-yuns-excellence-and-advocacy_3938713.html"> 
+ <div class="title three_most">
+   San Antonio Audiences Praise Shen Yun’s Excellence and Advocacy 
+ </div></a>
+<a href="https://www.theepochtimes.com/c-china-us-news"><img src="https://img.theepochtimes.com/assets/uploads/2021/02/23/USChina2.jpg" alt="US-China Relations"></a>
+<a href="https://www.theepochtimes.com/marxism-101-what-it-is-and-how-it-is-working-in-our-culture-today_3939062.html"><img src="https://img.theepochtimes.com/assets/uploads/2021/08/08/ttl7day48B_1920x1080-205x123.jpg" alt="Marxism 101: What It Is and How It Is Working in Our Culture Today"></a>
+<a href="https://www.theepochtimes.com/marxism-101-what-it-is-and-how-it-is-working-in-our-culture-today_3939062.html"> 
+ <div class="title three_most">
+   Marxism 101: What It Is and How It Is Working in Our Culture Today 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939062"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/marxism-101-what-it-is-and-how-it-is-working-in-our-culture-today_3939062.html">comments<span class="comments" id="cmt_post_3939062"></span></a>
+<a href="https://www.theepochtimes.com/us-to-combat-increasing-cyberattacks-especially-from-china_3938394.html"><img src="https://img.theepochtimes.com/assets/uploads/2021/07/09/Cyber-Attack-205x123.jpg" alt="US to Combat Increasing Cyberattacks, Especially From China"></a>
+<a href="https://www.theepochtimes.com/us-to-combat-increasing-cyberattacks-especially-from-china_3938394.html"> 
+ <div class="title three_most">
+   US to Combat Increasing Cyberattacks, Especially From China 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938394"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/us-to-combat-increasing-cyberattacks-especially-from-china_3938394.html">comments<span class="comments" id="cmt_post_3938394"></span></a>
+<a href="https://rejectccp.com/?utm_source=EET_Home&amp;utm_medium=button&amp;utm_campaign=EET_petition_window" target="_blank">SIGN THE PETITION</a>
+<a href="https://www.specterofcommunism.org/" target="_blank">How the Specter of Communism Is Ruling Our World</a>
+<a href="https://www.specterofcommunism.org/" target="_blank"><img src="https://img.theepochtimes.com/assets/uploads/2021/01/15/Specterx2.png" alt="How the Specter of Communism Is Ruling Our World"></a>
+<a href="https://www.theepochtimes.com/c-nine-commentaries">Nine Commentaries on the Communist Party</a>
+<a href="https://www.theepochtimes.com/c-nine-commentaries"><img src="https://img.theepochtimes.com/assets/uploads/2021/01/15/Commentaryx2.png" alt="Nine Commentaries on the Communist Party"></a>
+<a href="https://www.theepochtimes.com/c-life-tradition"> 
+ <div class="block_name">
+   Life &amp; Tradition 
+ </div></a>
+<a href="https://www.theepochtimes.com/dealing-with-wine-snobs_3933126.html"><img src="https://img.theepochtimes.com/assets/uploads/2021/08/09/shutterstock_745426765-1-205x123.jpg" alt="Dealing With Wine Snobs"></a>
+<a href="https://www.theepochtimes.com/dealing-with-wine-snobs_3933126.html"> 
+ <div class="title three_most">
+   Dealing With Wine Snobs 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3933126"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/dealing-with-wine-snobs_3933126.html">comments<span class="comments" id="cmt_post_3933126"></span></a>
+<a href="https://www.theepochtimes.com/mama-cat-runs-into-burning-barn-to-save-kittens-suffers-severe-burns-saves-one-baby-cat_3927311.html"><img src="https://img.theepochtimes.com/assets/uploads/2021/08/09/Furget-Me-Not-Animal-45-web-6973-205x123.jpg" alt="Mama Cat Runs Into Burning Barn to Save Kittens, Suffers Severe Burns, Saves One Baby Cat"></a>
+<a href="https://www.theepochtimes.com/mama-cat-runs-into-burning-barn-to-save-kittens-suffers-severe-burns-saves-one-baby-cat_3927311.html"> 
+ <div class="title three_most">
+   Mama Cat Runs Into Burning Barn to Save Kittens, Suffers Severe Burns, Saves One Baby Cat 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3927311"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/mama-cat-runs-into-burning-barn-to-save-kittens-suffers-severe-burns-saves-one-baby-cat_3927311.html">comments<span class="comments" id="cmt_post_3927311"></span></a>
+<a href="https://www.theepochtimes.com/heliographic-artist-renders-incredible-paintings-using-sunlight-mirrors-and-lenses_3907520.html"><img src="https://img.theepochtimes.com/assets/uploads/2021/08/09/heliographic-artist-205x123.jpg" alt="Heliographic Artist Renders Incredible Paintings Using Sunlight, Mirrors, and Lenses"></a>
+<a href="https://www.theepochtimes.com/heliographic-artist-renders-incredible-paintings-using-sunlight-mirrors-and-lenses_3907520.html"> 
+ <div class="title three_most">
+   Heliographic Artist Renders Incredible Paintings Using Sunlight, Mirrors, and Lenses 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3907520"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/heliographic-artist-renders-incredible-paintings-using-sunlight-mirrors-and-lenses_3907520.html">comments<span class="comments" id="cmt_post_3907520"></span></a>
+<a href="https://www.theepochtimes.com/texas-policeman-spots-2-hungry-horses-on-hurricane-devastated-property-feeds-them-every-day_3929321.html"><img src="https://img.theepochtimes.com/assets/uploads/2021/08/09/et-horse-cop-web-78967-205x123.jpg" alt="Texas Policeman Spots 2 Hungry Horses on Hurricane-Devastated Property, Decides to Step In"></a>
+<a href="https://www.theepochtimes.com/texas-policeman-spots-2-hungry-horses-on-hurricane-devastated-property-feeds-them-every-day_3929321.html"> 
+ <div class="title three_most">
+   Texas Policeman Spots 2 Hungry Horses on Hurricane-Devastated Property, Decides to Step In 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3929321"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/texas-policeman-spots-2-hungry-horses-on-hurricane-devastated-property-feeds-them-every-day_3929321.html">comments<span class="comments" id="cmt_post_3929321"></span></a>
+<a href="https://www.theepochtimes.com/police-officer-feels-uneasy-seeing-2-boys-beside-a-pond-is-shocked-to-find-them-picking-up-trash_3936931.html"><img src="https://img.theepochtimes.com/assets/uploads/2021/08/09/Sergeant-Rodriguez-web-0780-09-9-205x123.jpg" alt="Police Officer Feels Uneasy Seeing 2 Boys Beside a Pond, Is Shocked to Find Them ‘Picking Up Trash’"></a>
+<a href="https://www.theepochtimes.com/police-officer-feels-uneasy-seeing-2-boys-beside-a-pond-is-shocked-to-find-them-picking-up-trash_3936931.html"> 
+ <div class="title three_most">
+   Police Officer Feels Uneasy Seeing 2 Boys Beside a Pond, Is Shocked to Find Them ‘Picking Up Trash’ 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3936931"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/police-officer-feels-uneasy-seeing-2-boys-beside-a-pond-is-shocked-to-find-them-picking-up-trash_3936931.html">comments<span class="comments" id="cmt_post_3936931"></span></a>
+<a href="https://www.theepochtimes.com/c-life-tradition">show more<span class="arrow_right"></span></a>
+<a href="https://www.theepochtimes.com/hundreds-protest-vaccination-mandate-tyranny-in-michigan_3938253.html"> <img alt="Police Officer Feels Uneasy Seeing 2 Boys Beside a Pond, Is Shocked to Find Them ‘Picking Up Trash’" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/07/Vaccine-Protest-3-205x123.jpg"> <span class="numb">1</span> </a>
+<a href="https://www.theepochtimes.com/hundreds-protest-vaccination-mandate-tyranny-in-michigan_3938253.html"> 
+ <div class="title three_most">
+   Hundreds Protest Vaccination Mandates in Michigan 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938253"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/hundreds-protest-vaccination-mandate-tyranny-in-michigan_3938253.html">comments<span class="comments" id="cmt_post_3938253"></span></a>
+<a href="https://www.theepochtimes.com/inflation-and-the-price-of-goods-what-to-buy-now-and-what-to-avoid_3938781.html"> <img alt="Police Officer Feels Uneasy Seeing 2 Boys Beside a Pond, Is Shocked to Find Them ‘Picking Up Trash’" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/08/car-dealership-205x123.jpeg"> <span class="numb">2</span> </a>
+<a href="https://www.theepochtimes.com/inflation-and-the-price-of-goods-what-to-buy-now-and-what-to-avoid_3938781.html"> 
+ <div class="title three_most">
+   Inflation and the Price of Goods: What to Buy Now and What to Avoid 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938781"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/inflation-and-the-price-of-goods-what-to-buy-now-and-what-to-avoid_3938781.html">comments<span class="comments" id="cmt_post_3938781"></span></a>
+<a href="https://www.theepochtimes.com/texas-house-special-session-adjourned-as-not-enough-democrats-present_3938254.html"> <img alt="Police Officer Feels Uneasy Seeing 2 Boys Beside a Pond, Is Shocked to Find Them ‘Picking Up Trash’" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/07/13/Texas-House-Speaker-Dade-Phelan-205x123.jpg"> <span class="numb">3</span> </a>
+<a href="https://www.theepochtimes.com/texas-house-special-session-adjourned-as-not-enough-democrats-present_3938254.html"> 
+ <div class="title three_most">
+   Texas House Special Session Adjourned as Not Enough Democrats Present 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938254"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/texas-house-special-session-adjourned-as-not-enough-democrats-present_3938254.html">comments<span class="comments" id="cmt_post_3938254"></span></a>
+<a href="https://www.theepochtimes.com/lebanons-economy-quickly-collapsing-amid-hyperinflation-power-outages_3939156.html"> <img alt="Police Officer Feels Uneasy Seeing 2 Boys Beside a Pond, Is Shocked to Find Them ‘Picking Up Trash’" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2020/08/10/LEBANON-SECURITY-BLAST-PROTESTS-205x123.jpg"> <span class="numb">4</span> </a>
+<a href="https://www.theepochtimes.com/lebanons-economy-quickly-collapsing-amid-hyperinflation-power-outages_3939156.html"> 
+ <div class="title three_most">
+   Lebanon’s Economy Quickly Collapsing Amid Hyperinflation, Power Outages 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939156"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/lebanons-economy-quickly-collapsing-amid-hyperinflation-power-outages_3939156.html">comments<span class="comments" id="cmt_post_3939156"></span></a>
+<a href="https://www.theepochtimes.com/data-suggests-vaccines-make-limited-difference-in-infectiousness-of-delta-variant-phe_3928179.html"> <img alt="Police Officer Feels Uneasy Seeing 2 Boys Beside a Pond, Is Shocked to Find Them ‘Picking Up Trash’" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/05/30/featureimage-205x123.jpg"> <span class="numb">5</span> </a>
+<a href="https://www.theepochtimes.com/data-suggests-vaccines-make-limited-difference-in-infectiousness-of-delta-variant-phe_3928179.html"> 
+ <div class="title three_most">
+   Data Suggest Vaccines Make ‘Limited Difference in Infectiousness’ of Delta Variant: PHE 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3928179"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/data-suggests-vaccines-make-limited-difference-in-infectiousness-of-delta-variant-phe_3928179.html">comments<span class="comments" id="cmt_post_3928179"></span></a>
+<a href="https://www.theepochtimes.com/epochtv">EPOCH TV</a>
+<a id="trailer_link" href=""> 
+ <div class="desc"> 
+  <img id="trailer_avatar" src="/assets/themes/eet/images/white.png"> 
+  <div id="trailer_title" class="title"></div> 
+ </div></a>
+<a href="https://www.theepochtimes.com/epochtv"><img src="/assets/themes/eet/images/premium/epochvideo_sidebar.jpg" alt="EPOCH PREMIUM"></a>
+<a href="https://www.theepochtimes.com/epochtv"><img src="/assets/themes/eet/images/premium/EpochTV_Gold_Home.png" alt="EPOCH PREMIUM"></a>
+<a href="https://www.theepochtimes.com/live-q-us-warns-of-chinas-growing-nuke-arsenal_3939359.html">Live Q&amp;A: Apple Begins Scanning Photos From All iPhones; US Warns of China’s Growing Nuke Arsenal</a>
+<a href="https://www.theepochtimes.com/author-joshua-philipp">Joshua Philipp</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939359"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/live-q-us-warns-of-chinas-growing-nuke-arsenal_3939359.html">comments<span class="comments" id="cmt_post_3939359"></span></a>
+<a href="https://www.theepochtimes.com/the-olympic-finale_3939025.html">The Olympic Finale</a>
+<a href="https://www.theepochtimes.com/author-danielle-dsouza-gill">Danielle D'Souza Gill</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939025"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/the-olympic-finale_3939025.html">comments<span class="comments" id="cmt_post_3939025"></span></a>
+<a href="https://www.theepochtimes.com/facts-matter-aug-7-democrat-mayors-spent-over-43-million-on-private-security-while-defunding-police-report_3938495.html">Facts Matter (Aug 7): Democrat Mayors Spent Over $43 Million on Private Security While Defunding Police: Report</a>
+<a href="https://www.theepochtimes.com/author-roman-balmakov">Roman Balmakov</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938495"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/facts-matter-aug-7-democrat-mayors-spent-over-43-million-on-private-security-while-defunding-police-report_3938495.html">comments<span class="comments" id="cmt_post_3938495"></span></a>
+<a href="https://www.theepochtimes.com/whats-next-for-ny-gov-cuomo-after-harassment-findings-we-ask-new-yorkers_3938434.html">What’s Next for NY Gov. Cuomo After Harassment Findings?—We Ask New Yorkers</a>
+<a href="https://www.theepochtimes.com/author-brendon-fallon">Brendon Fallon</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938434"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/whats-next-for-ny-gov-cuomo-after-harassment-findings-we-ask-new-yorkers_3938434.html">comments<span class="comments" id="cmt_post_3938434"></span></a>
+<a href="https://www.theepochtimes.com/ccp-wants-to-be-the-most-powerful-force-on-earth-rick-fisher-on-chinas-nuclear-ambition_3937311.html">‘CCP Wants to Be the Most Powerful Force on Earth’: Rick Fisher on China’s Nuclear Ambition</a>
+<a href="https://www.theepochtimes.com/author-tiffany-meier">Tiffany Meier</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3937311"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/ccp-wants-to-be-the-most-powerful-force-on-earth-rick-fisher-on-chinas-nuclear-ambition_3937311.html">comments<span class="comments" id="cmt_post_3937311"></span></a>
+<a href="https://www.theepochtimes.com/epochtv"> 
+ <div class="watch_now">
+   WATCH NOW 
+ </div></a>
+<a href="https://www.theepochtimes.com/featured">FEATURED</a>
+<a href="https://www.theepochtimes.com/american-recounts-being-tortured-and-drugged-in-chinas-black-jails_3938586.html">American Recounts Being Tortured and Drugged in China’s ‘Black Jails’</a>
+<a href="https://www.theepochtimes.com/author-frank-fang">Frank Fang</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938586"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/american-recounts-being-tortured-and-drugged-in-chinas-black-jails_3938586.html">comments<span class="comments" id="cmt_post_3938586"></span></a>
+<a href="https://www.theepochtimes.com/two-decades-after-joining-china-remains-woefully-short-of-meeting-wto-pledges-report_3938153.html">2 Decades After Joining WTO, China ‘Remains Woefully Short’ of Meeting Pledges: Report</a>
+<a href="https://www.theepochtimes.com/author-adam-molon">Adam Michael Molon</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938153"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/two-decades-after-joining-china-remains-woefully-short-of-meeting-wto-pledges-report_3938153.html">comments<span class="comments" id="cmt_post_3938153"></span></a>
+<a href="https://www.theepochtimes.com/bidens-target-of-electric-power-in-half-of-all-u-s-vehicle-sales-by-2030-is-a-bonanza-for-china_3937513.html">Biden’s Target of Electric Power in Half of All US Vehicle Sales by 2030 Is a Bonanza for China</a>
+<a href="https://www.theepochtimes.com/author-mark-tapscott">Mark Tapscott</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3937513"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/bidens-target-of-electric-power-in-half-of-all-u-s-vehicle-sales-by-2030-is-a-bonanza-for-china_3937513.html">comments<span class="comments" id="cmt_post_3937513"></span></a>
+<a href="https://www.theepochtimes.com/study-sea-turtles-found-to-be-ingesting-large-amounts-of-plastic_3937442.html">Study: Sea Turtles Found to Be Ingesting Large Amounts of Plastic</a>
+<a href="https://www.theepochtimes.com/author-nathan-worcester">Nathan Worcester</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3937442"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/study-sea-turtles-found-to-be-ingesting-large-amounts-of-plastic_3937442.html">comments<span class="comments" id="cmt_post_3937442"></span></a>
+<a href="https://www.theepochtimes.com/texas-sheriff-its-not-a-border-crisis-its-a-fight-between-good-and-evil_3935416.html">Texas Sheriff: ‘It’s Not a Border Crisis, It’s a Fight Between Good and Evil’</a>
+<a href="https://www.theepochtimes.com/author-charlottec">Charlotte Cuthbertson</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3935416"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/texas-sheriff-its-not-a-border-crisis-its-a-fight-between-good-and-evil_3935416.html">comments<span class="comments" id="cmt_post_3935416"></span></a>
+<a href="https://www.theepochtimes.com/minnesota-public-interest-law-firm-takes-on-critical-race-theory_3935678.html">Minnesota Public Interest Law Firm Takes on Critical Race Theory</a>
+<a href="https://www.theepochtimes.com/author-matthew-vadum">Matthew Vadum</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3935678"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/minnesota-public-interest-law-firm-takes-on-critical-race-theory_3935678.html">comments<span class="comments" id="cmt_post_3935678"></span></a>
+<a href="https://www.theepochtimes.com/featured">show more<span class="arrow_right"></span></a>
+<a href="https://www.theepochtimes.com/c-opinion">OPINION</a>
+<a href="https://www.theepochtimes.com/the-medias-cheap-shots-at-those-in-public-life-are-contemptible_3940337.html">The Media’s Cheap Shots at Those in Public Life Are Contemptible</a>
+<a href="https://www.theepochtimes.com/author-conrad-black">Conrad Black</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3940337"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/the-medias-cheap-shots-at-those-in-public-life-are-contemptible_3940337.html">comments<span class="comments" id="cmt_post_3940337"></span></a>
+<a href="https://www.theepochtimes.com/splitting-the-baby_3938955.html">Splitting the Baby</a>
+<a href="https://www.theepochtimes.com/author-dinesh-dsouza">Dinesh D’Souza</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938955"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/splitting-the-baby_3938955.html">comments<span class="comments" id="cmt_post_3938955"></span></a>
+<a href="https://www.theepochtimes.com/chinas-communists-demand-concessions-from-washington-while-committing-thievery_3939608.html">China’s Communists Demand Concessions From Washington While Committing Thievery</a>
+<a href="https://www.theepochtimes.com/author-cheng-xiaonong">Cheng Xiaonong</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939608"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/chinas-communists-demand-concessions-from-washington-while-committing-thievery_3939608.html">comments<span class="comments" id="cmt_post_3939608"></span></a>
+<a href="https://www.theepochtimes.com/xi-jinpings-destined-battle-within-the-party_3939553.html">Xi Jinping’s Destined Battle Within the Party</a>
+<a href="https://www.theepochtimes.com/author-zhong-yuan">Zhong Yuan</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939553"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/xi-jinpings-destined-battle-within-the-party_3939553.html">comments<span class="comments" id="cmt_post_3939553"></span></a>
+<a href="https://www.theepochtimes.com/viktor-orban-and-the-defense-of-the-nation_3939096.html">Viktor Orbán and the Defense of the Nation</a>
+<a href="https://www.theepochtimes.com/author-roger-kimball">Roger Kimball</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939096"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/viktor-orban-and-the-defense-of-the-nation_3939096.html">comments<span class="comments" id="cmt_post_3939096"></span></a>
+<a href="https://www.theepochtimes.com/understanding-the-constitution-the-style-of-the-preamble_3938871.html">Understanding the Constitution: The Style of the Preamble</a>
+<a href="https://www.theepochtimes.com/author-robert-g-natelson">Rob Natelson</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938871"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/understanding-the-constitution-the-style-of-the-preamble_3938871.html">comments<span class="comments" id="cmt_post_3938871"></span></a>
+<a href="https://www.theepochtimes.com/the-infrastructure-bill-is-the-royal-road-to-communism_3939048.html">The Infrastructure Bill Is the Royal Road to Communism</a>
+<a href="https://www.theepochtimes.com/author-roger-l-simon">Roger L. Simon</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3939048"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/the-infrastructure-bill-is-the-royal-road-to-communism_3939048.html">comments<span class="comments" id="cmt_post_3939048"></span></a>
+<a href="https://www.theepochtimes.com/china-is-using-amazon-to-destroy-democracy_3938466.html">China Is Using Amazon to Destroy Democracy</a>
+<a href="https://www.theepochtimes.com/author-anders-corr-phd">Anders Corr</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938466"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/china-is-using-amazon-to-destroy-democracy_3938466.html">comments<span class="comments" id="cmt_post_3938466"></span></a>
+<a href="https://www.theepochtimes.com/when-ccp-state-media-criticize-chinas-high-tech_3937337.html">When CCP State Media Criticize China’s High Tech</a>
+<a href="https://www.theepochtimes.com/author-alexander-liao">Alexander Liao</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3937337"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/when-ccp-state-media-criticize-chinas-high-tech_3937337.html">comments<span class="comments" id="cmt_post_3937337"></span></a>
+<a href="https://www.theepochtimes.com/didi-china-and-the-data-war_3937270.html">Didi, China, and the Data War</a>
+<a href="https://www.theepochtimes.com/author-arthur-herman">Arthur Herman</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3937270"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/didi-china-and-the-data-war_3937270.html">comments<span class="comments" id="cmt_post_3937270"></span></a>
+<a href="https://www.theepochtimes.com/china-coup-the-great-fall-of-beijing_3936752.html">China Coup: The Great Fall of Beijing</a>
+<a href="https://www.theepochtimes.com/author-john-mac-ghlionn">John Mac Ghlionn</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3936752"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/china-coup-the-great-fall-of-beijing_3936752.html">comments<span class="comments" id="cmt_post_3936752"></span></a>
+<a href="https://www.theepochtimes.com/chinas-1-1-trillion-tech-crackdown-reveals-an-existential-threat_3936800.html">China’s $1.1 Trillion Tech Crackdown Reveals an Existential Threat</a>
+<a href="https://www.theepochtimes.com/author-anders-corr-phd">Anders Corr</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3936800"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/chinas-1-1-trillion-tech-crackdown-reveals-an-existential-threat_3936800.html">comments<span class="comments" id="cmt_post_3936800"></span></a>
+<a href="https://www.theepochtimes.com/governor-cuomos-sex-scandal-and-the-medias-corruption_3937588.html">Gov. Cuomo’s Sex Scandal and the Media’s Corruption</a>
+<a href="https://www.theepochtimes.com/author-james-bowman">James Bowman</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3937588"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/governor-cuomos-sex-scandal-and-the-medias-corruption_3937588.html">comments<span class="comments" id="cmt_post_3937588"></span></a>
+<a href="https://www.theepochtimes.com/no-to-elephant-rights-and-water-rights_3937478.html">NO to ‘Elephant Rights’ and ‘Water Rights’</a>
+<a href="https://www.theepochtimes.com/author-wesley-j-smith">Wesley J. Smith</a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3937478"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/no-to-elephant-rights-and-water-rights_3937478.html">comments<span class="comments" id="cmt_post_3937478"></span></a>
+<a href="https://www.theepochtimes.com/c-opinion">show more<span class="arrow_right"></span></a>
+<a href="https://www.theepochtimes.com/editions"><img src="/assets/themes/eet/images/premium/premium_logo_b.png" alt="EPOCH PREMIUM"></a>
+<a href="https://www.theepochtimes.com/edition/china-insider-31-2_3918363"> <img src="https://img.theepochtimes.com/assets/uploads/2021/08/05/week-31_CIsmall.jpg" alt="Latest Magazines"> </a>
+<a href="https://www.theepochtimes.com/edition/china-insider-30-3_3916516"> <img src="https://img.theepochtimes.com/assets/uploads/2021/07/29/week-30_CIsmall.jpg" alt="Latest Magazines"> </a>
+<a href="https://www.theepochtimes.com/edition/china-insider-29-3_3907259"> <img src="https://img.theepochtimes.com/assets/uploads/2021/07/22/week-29_CIsmall.jpg" alt="Latest Magazines"> </a>
+<a href="https://www.theepochtimes.com/edition/china-insider-28-3_3897400"> <img src="https://img.theepochtimes.com/assets/uploads/2021/07/15/week-28_CIsmall.jpg" alt="Latest Magazines"> </a>
+<a href="https://www.theepochtimes.com/edition/china-insider-27-3_3886266"> <img src="https://img.theepochtimes.com/assets/uploads/2021/07/08/week-27_CIsmall.jpg" alt="Latest Magazines"> </a>
+<a href="/editions">show more<span class="arrow_right"></span></a>
+<a href="https://www.theepochtimes.com/c-life-tradition">Life &amp; Tradition</a>
+<a href="https://www.theepochtimes.com/dealing-with-wine-snobs_3933126.html"><span class="image"><img alt="Dealing With Wine Snobs" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/shutterstock_745426765-1-550x330.jpg"> 
+  <noscript> 
+   <img alt="Dealing With Wine Snobs" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/shutterstock_745426765-1-550x330.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/dealing-with-wine-snobs_3933126.html"><span class="title three_most">Dealing With Wine Snobs</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3933126"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/dealing-with-wine-snobs_3933126.html">comments<span class="comments" id="cmt_post_3933126"></span></a>
+<a href="https://www.theepochtimes.com/heliographic-artist-renders-incredible-paintings-using-sunlight-mirrors-and-lenses_3907520.html"><span class="image"><img alt="Heliographic Artist Renders Incredible Paintings Using Sunlight, Mirrors, and Lenses" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/heliographic-artist-205x123.jpg"> 
+  <noscript> 
+   <img alt="Heliographic Artist Renders Incredible Paintings Using Sunlight, Mirrors, and Lenses" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/heliographic-artist-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/heliographic-artist-renders-incredible-paintings-using-sunlight-mirrors-and-lenses_3907520.html"><span class="title three_most">Heliographic Artist Renders Incredible Paintings Using Sunlight, Mirrors, and Lenses</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3907520"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/heliographic-artist-renders-incredible-paintings-using-sunlight-mirrors-and-lenses_3907520.html">comments<span class="comments" id="cmt_post_3907520"></span></a>
+<a href="https://www.theepochtimes.com/10-items-to-toss-from-your-garage-in-the-next-30-minutes_3911576.html"><span class="image"><img alt="Home: 10 Items to Toss From Your Garage in the Next 30 Minutes" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/07/01/shutterstock_245215153-205x123.jpg"> 
+  <noscript> 
+   <img alt="Home: 10 Items to Toss From Your Garage in the Next 30 Minutes" src="https://img.theepochtimes.com/assets/uploads/2021/07/01/shutterstock_245215153-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/10-items-to-toss-from-your-garage-in-the-next-30-minutes_3911576.html"><span class="title three_most">Home: 10 Items to Toss From Your Garage in the Next 30 Minutes</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3911576"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/10-items-to-toss-from-your-garage-in-the-next-30-minutes_3911576.html">comments<span class="comments" id="cmt_post_3911576"></span></a>
+<a href="https://www.theepochtimes.com/c-inspired">Inspired</a>
+<a href="https://www.theepochtimes.com/mama-cat-runs-into-burning-barn-to-save-kittens-suffers-severe-burns-saves-one-baby-cat_3927311.html"> <img src="https://img.theepochtimes.com/assets/uploads/2021/08/09/Furget-Me-Not-Animal-45-web-6973-205x123.jpg" alt="Mama Cat Runs Into Burning Barn to Save Kittens, Suffers Severe Burns, Saves One Baby Cat"> </a>
+<a href="https://www.theepochtimes.com/mama-cat-runs-into-burning-barn-to-save-kittens-suffers-severe-burns-saves-one-baby-cat_3927311.html"> 
+ <div class="title two_most">
+   Mama Cat Runs Into Burning Barn to Save Kittens, Suffers Severe Burns, Saves One Baby Cat 
+ </div> </a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3927311"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/mama-cat-runs-into-burning-barn-to-save-kittens-suffers-severe-burns-saves-one-baby-cat_3927311.html">comments<span class="comments" id="cmt_post_3927311"></span></a>
+<a href="https://www.theepochtimes.com/texas-policeman-spots-2-hungry-horses-on-hurricane-devastated-property-feeds-them-every-day_3929321.html"> <img src="https://img.theepochtimes.com/assets/uploads/2021/08/09/et-horse-cop-web-78967-205x123.jpg" alt="Texas Policeman Spots 2 Hungry Horses on Hurricane-Devastated Property, Decides to Step In"> </a>
+<a href="https://www.theepochtimes.com/texas-policeman-spots-2-hungry-horses-on-hurricane-devastated-property-feeds-them-every-day_3929321.html"> 
+ <div class="title two_most">
+   Texas Policeman Spots 2 Hungry Horses on Hurricane-Devastated Property, Decides to Step In 
+ </div> </a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3929321"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/texas-policeman-spots-2-hungry-horses-on-hurricane-devastated-property-feeds-them-every-day_3929321.html">comments<span class="comments" id="cmt_post_3929321"></span></a>
+<a href="https://www.theepochtimes.com/c-family-life-2">Family &amp; Home</a>
+<a href="https://www.theepochtimes.com/police-officer-feels-uneasy-seeing-2-boys-beside-a-pond-is-shocked-to-find-them-picking-up-trash_3936931.html"> <img src="https://img.theepochtimes.com/assets/uploads/2021/08/09/Sergeant-Rodriguez-web-0780-09-9-205x123.jpg" alt="Police Officer Feels Uneasy Seeing 2 Boys Beside a Pond, Is Shocked to Find Them ‘Picking Up Trash’"> </a>
+<a href="https://www.theepochtimes.com/police-officer-feels-uneasy-seeing-2-boys-beside-a-pond-is-shocked-to-find-them-picking-up-trash_3936931.html"> 
+ <div class="title two_most">
+   Police Officer Feels Uneasy Seeing 2 Boys Beside a Pond, Is Shocked to Find Them ‘Picking Up Trash’ 
+ </div> </a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3936931"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/police-officer-feels-uneasy-seeing-2-boys-beside-a-pond-is-shocked-to-find-them-picking-up-trash_3936931.html">comments<span class="comments" id="cmt_post_3936931"></span></a>
+<a href="https://www.theepochtimes.com/homeschool-is-not-school-at-home_3935249.html"> <img src="https://img.theepochtimes.com/assets/uploads/2021/08/08/mom-and-child-in-garden-205x123.jpg" alt="Homeschool Is Not School at Home"> </a>
+<a href="https://www.theepochtimes.com/homeschool-is-not-school-at-home_3935249.html"> 
+ <div class="title two_most">
+   Homeschool Is Not School at Home 
+ </div> </a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3935249"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/homeschool-is-not-school-at-home_3935249.html">comments<span class="comments" id="cmt_post_3935249"></span></a>
+<a href="https://www.theepochtimes.com/c-slice-of-life">People</a>
+<a href="https://www.theepochtimes.com/country-singer-lee-greenwood-to-help-build-custom-home-for-disabled-veteran-in-alabama_3932309.html"> <img src="https://img.theepochtimes.com/assets/uploads/2021/08/07/ET-lee-green-879webfb-890-205x123.jpg" alt="Country Singer Lee Greenwood to Help Build Custom Home for Disabled Veteran in Alabama"> </a>
+<a href="https://www.theepochtimes.com/country-singer-lee-greenwood-to-help-build-custom-home-for-disabled-veteran-in-alabama_3932309.html"> 
+ <div class="title two_most">
+   Country Singer Lee Greenwood to Help Build Custom Home for Disabled Veteran in Alabama 
+ </div> </a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3932309"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/country-singer-lee-greenwood-to-help-build-custom-home-for-disabled-veteran-in-alabama_3932309.html">comments<span class="comments" id="cmt_post_3932309"></span></a>
+<a href="https://www.theepochtimes.com/photographer-scraps-snapping-surfers-for-just-water-and-waves-and-the-results-are-pure-magic_3928936.html"> <img src="https://img.theepochtimes.com/assets/uploads/2021/08/03/et-wave-3245890-pic-web-66-205x123.jpg" alt="Photographer Scraps Snapping Surfers for Just Water and Waves—and the Results Are Pure ‘Magic’"> </a>
+<a href="https://www.theepochtimes.com/photographer-scraps-snapping-surfers-for-just-water-and-waves-and-the-results-are-pure-magic_3928936.html"> 
+ <div class="title two_most">
+   Photographer Scraps Snapping Surfers for Just Water and Waves—and the Results Are Pure ‘Magic’ 
+ </div> </a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3928936"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/photographer-scraps-snapping-surfers-for-just-water-and-waves-and-the-results-are-pure-magic_3928936.html">comments<span class="comments" id="cmt_post_3928936"></span></a>
+<a href="https://www.theepochtimes.com/c-wellness">Mind &amp; Body</a>
+<a href="https://www.theepochtimes.com/fighting-disease-and-depression-with-fermented-foods_3924705.html"><span class="image"><img alt="Health: Fighting Disease and Depression With Fermented Foods" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/05/jars-of-fermented-foods-550x330.jpg"> 
+  <noscript> 
+   <img alt="Health: Fighting Disease and Depression With Fermented Foods" src="https://img.theepochtimes.com/assets/uploads/2021/08/05/jars-of-fermented-foods-550x330.jpg"> 
+  </noscript><span class="premium_icon"></span></span></a>
+<a href="https://www.theepochtimes.com/fighting-disease-and-depression-with-fermented-foods_3924705.html"><span class="title three_most">Health: Fighting Disease and Depression With Fermented Foods</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3924705"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/fighting-disease-and-depression-with-fermented-foods_3924705.html">comments<span class="comments" id="cmt_post_3924705"></span></a>
+<a href="https://www.theepochtimes.com/covid-19-survivors-have-broad-longer-term-immunity_3928732.html"><span class="image"><img alt="Health: COVID-19 Survivors Have Broad, Longer-Term Immunity" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/05/A-woman-lifts-her-mask-and-breathes-205x123.jpg"> 
+  <noscript> 
+   <img alt="Health: COVID-19 Survivors Have Broad, Longer-Term Immunity" src="https://img.theepochtimes.com/assets/uploads/2021/08/05/A-woman-lifts-her-mask-and-breathes-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/covid-19-survivors-have-broad-longer-term-immunity_3928732.html"><span class="title three_most">Health: COVID-19 Survivors Have Broad, Longer-Term Immunity</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3928732"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/covid-19-survivors-have-broad-longer-term-immunity_3928732.html">comments<span class="comments" id="cmt_post_3928732"></span></a>
+<a href="https://www.theepochtimes.com/tips-for-maintaining-a-strong-immune-system_3924709.html"><span class="image"><img alt="Tips for Maintaining a Strong Immune System" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/05/a-woman-in-exercise-clothes-rests-and-eats-after-working-out-in-her-home-205x123.jpg"> 
+  <noscript> 
+   <img alt="Tips for Maintaining a Strong Immune System" src="https://img.theepochtimes.com/assets/uploads/2021/08/05/a-woman-in-exercise-clothes-rests-and-eats-after-working-out-in-her-home-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/tips-for-maintaining-a-strong-immune-system_3924709.html"><span class="title three_most">Tips for Maintaining a Strong Immune System</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3924709"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/tips-for-maintaining-a-strong-immune-system_3924709.html">comments<span class="comments" id="cmt_post_3924709"></span></a>
+<a href="https://www.theepochtimes.com/c-fitness-nutrition">Fitness &amp; Nutrition</a>
+<a href="https://www.theepochtimes.com/why-is-male-fertility-declining_3928826.html"> <img src="https://img.theepochtimes.com/assets/uploads/2021/08/05/A-3d-representation-of-a-sperm-205x123.jpg" alt="Why Is Male Fertility Declining?"> </a>
+<a href="https://www.theepochtimes.com/why-is-male-fertility-declining_3928826.html"> 
+ <div class="title two_most">
+   Why Is Male Fertility Declining? 
+ </div> </a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3928826"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/why-is-male-fertility-declining_3928826.html">comments<span class="comments" id="cmt_post_3928826"></span></a>
+<a href="https://www.theepochtimes.com/are-you-dehydrated_3925377.html"> <img src="https://img.theepochtimes.com/assets/uploads/2021/08/05/boy-drinking-water-205x123.jpg" alt="Are You Dehydrated?"> </a>
+<a href="https://www.theepochtimes.com/are-you-dehydrated_3925377.html"> 
+ <div class="title two_most">
+   Are You Dehydrated? 
+ </div> </a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3925377"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/are-you-dehydrated_3925377.html">comments<span class="comments" id="cmt_post_3925377"></span></a>
+<a href="https://www.theepochtimes.com/c-mindset">Mindset</a>
+<a href="https://www.theepochtimes.com/dealing-with-disaster_3925209.html"> <img src="https://img.theepochtimes.com/assets/uploads/2021/08/05/a-woman-sits-on-a-swingset-and-looks-at-the-empty-seat-next-to-her-205x123.jpg" alt="Dealing With Disaster"> </a>
+<a href="https://www.theepochtimes.com/dealing-with-disaster_3925209.html"> 
+ <div class="title two_most">
+   Dealing With Disaster 
+ </div> </a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3925209"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/dealing-with-disaster_3925209.html">comments<span class="comments" id="cmt_post_3925209"></span></a>
+<a href="https://www.theepochtimes.com/a-guide-to-dealing-with-dissatisfaction-with-ourselves_2249360.html"> <img src="https://img.theepochtimes.com/assets/uploads/2017/05/05/woman-looks-into-the-mirror-seriously-205x123.jpg" alt="A Guide to Dealing With Dissatisfaction With Ourselves"> </a>
+<a href="https://www.theepochtimes.com/a-guide-to-dealing-with-dissatisfaction-with-ourselves_2249360.html"> 
+ <div class="title two_most">
+   A Guide to Dealing With Dissatisfaction With Ourselves 
+ </div> </a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_2249360"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/a-guide-to-dealing-with-dissatisfaction-with-ourselves_2249360.html">comments<span class="comments" id="cmt_post_2249360"></span></a>
+<a href="https://www.theepochtimes.com/c-aging">Aging</a>
+<a href="https://www.theepochtimes.com/the-emotional-journey-to-a-good-death_3871376.html"> <img src="https://img.theepochtimes.com/assets/uploads/2021/07/01/A-majestic-sunset-205x123.jpg" alt="The Emotional Journey to a Good Death"> </a>
+<a href="https://www.theepochtimes.com/the-emotional-journey-to-a-good-death_3871376.html"> 
+ <div class="title two_most">
+   The Emotional Journey to a Good Death 
+ </div> </a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3871376"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/the-emotional-journey-to-a-good-death_3871376.html">comments<span class="comments" id="cmt_post_3871376"></span></a>
+<a href="https://www.theepochtimes.com/doctors-weigh-prescribing-controversial-alzheimers-drug_3899830.html"> <img src="https://img.theepochtimes.com/assets/uploads/2021/07/20/doctors-talking-with-each-other-205x123.jpg" alt="Doctors Weigh Prescribing Controversial Alzheimer’s Drug"> </a>
+<a href="https://www.theepochtimes.com/doctors-weigh-prescribing-controversial-alzheimers-drug_3899830.html"> 
+ <div class="title two_most">
+   Doctors Weigh Prescribing Controversial Alzheimer’s Drug 
+ </div> </a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3899830"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/doctors-weigh-prescribing-controversial-alzheimers-drug_3899830.html">comments<span class="comments" id="cmt_post_3899830"></span></a>
+<a href="https://www.theepochtimes.com/c-arts-culture">Arts &amp; Culture</a>
+<a href="https://www.theepochtimes.com/what-good-is-poetry-euclid-alone-has-looked-on-beauty-bare_3929780.html"><span class="image"><img alt="Arts: What Good Is Poetry? ‘Euclid Alone Has Looked on Beauty Bare’" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/02/Millay-horizonal-550x330.jpg"> 
+  <noscript> 
+   <img alt="Arts: What Good Is Poetry? ‘Euclid Alone Has Looked on Beauty Bare’" src="https://img.theepochtimes.com/assets/uploads/2021/08/02/Millay-horizonal-550x330.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/what-good-is-poetry-euclid-alone-has-looked-on-beauty-bare_3929780.html"><span class="title three_most">Arts: What Good Is Poetry? ‘Euclid Alone Has Looked on Beauty Bare’</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3929780"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/what-good-is-poetry-euclid-alone-has-looked-on-beauty-bare_3929780.html">comments<span class="comments" id="cmt_post_3929780"></span></a>
+<a href="https://www.theepochtimes.com/film-review-val-portrait-of-the-artist-as-a-young-and-old-man_3924883.html"><span class="image"><img alt="Film Review: 'Val': Portrait of the Artist as a Young and Old Man" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/02/VAL-18-205x123.jpg"> 
+  <noscript> 
+   <img alt="Film Review: 'Val': Portrait of the Artist as a Young and Old Man" src="https://img.theepochtimes.com/assets/uploads/2021/08/02/VAL-18-205x123.jpg"> 
+  </noscript><span class="eet_video_icon"></span></span></a>
+<a href="https://www.theepochtimes.com/film-review-val-portrait-of-the-artist-as-a-young-and-old-man_3924883.html"><span class="title three_most">Film Review: 'Val': Portrait of the Artist as a Young and Old Man</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3924883"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/film-review-val-portrait-of-the-artist-as-a-young-and-old-man_3924883.html">comments<span class="comments" id="cmt_post_3924883"></span></a>
+<a href="https://www.theepochtimes.com/the-stoning-of-saint-stephen-by-renaissance-painter-aurelio-lomi_3923194.html"><span class="image"><img alt="‘The Stoning of Saint Stephen’ by Renaissance Painter Aurelio Lomi" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/04/lomi-205x123.jpg"> 
+  <noscript> 
+   <img alt="‘The Stoning of Saint Stephen’ by Renaissance Painter Aurelio Lomi" src="https://img.theepochtimes.com/assets/uploads/2021/08/04/lomi-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/the-stoning-of-saint-stephen-by-renaissance-painter-aurelio-lomi_3923194.html"><span class="title three_most">‘The Stoning of Saint Stephen’ by Renaissance Painter Aurelio Lomi</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3923194"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/the-stoning-of-saint-stephen-by-renaissance-painter-aurelio-lomi_3923194.html">comments<span class="comments" id="cmt_post_3923194"></span></a>
+<a href="https://www.theepochtimes.com/c-traditional-culture">Traditional Culture</a>
+<a href="https://www.theepochtimes.com/the-spirit-of-jade-its-sacred-and-noble-status-in-chinese-culture_3920540.html"> <img src="https://img.theepochtimes.com/assets/uploads/2021/07/27/1-K1-Jade-205x123.jpg" alt="The Spirit of Jade: Its Sacred and Noble Status in Chinese Culture"> </a>
+<a href="https://www.theepochtimes.com/the-spirit-of-jade-its-sacred-and-noble-status-in-chinese-culture_3920540.html"> 
+ <div class="title two_most">
+   The Spirit of Jade: Its Sacred and Noble Status in Chinese Culture 
+ </div> </a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3920540"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/the-spirit-of-jade-its-sacred-and-noble-status-in-chinese-culture_3920540.html">comments<span class="comments" id="cmt_post_3920540"></span></a>
+<a href="https://www.theepochtimes.com/valley-of-death-the-civil-war-and-the-shenandoah-valley_3917223.html"> <img src="https://img.theepochtimes.com/assets/uploads/2021/07/26/8_3_Shenandoah-Valley-during-civil-War-205x123.jpg" alt="Valley of Death: The Civil War and the Shenandoah Valley"> </a>
+<a href="https://www.theepochtimes.com/valley-of-death-the-civil-war-and-the-shenandoah-valley_3917223.html"> 
+ <div class="title two_most">
+   Valley of Death: The Civil War and the Shenandoah Valley 
+ </div> </a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3917223"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/valley-of-death-the-civil-war-and-the-shenandoah-valley_3917223.html">comments<span class="comments" id="cmt_post_3917223"></span></a>
+<a href="https://www.theepochtimes.com/c-film-reviews">Film Reviews</a>
+<a href="https://www.theepochtimes.com/film-review-jungle-cruise-another-hit-and-miss-disney-theme-park-adaptation_3933667.html"> <img src="https://img.theepochtimes.com/assets/uploads/2021/08/05/ELX-07538-205x123.jpg" alt="Film Review: ‘Jungle Cruise’: Another Hit-and-Miss Disney Theme-Park Adaptation"> </a>
+<a href="https://www.theepochtimes.com/film-review-jungle-cruise-another-hit-and-miss-disney-theme-park-adaptation_3933667.html"> 
+ <div class="title two_most">
+   Film Review: ‘Jungle Cruise’: Another Hit-and-Miss Disney Theme-Park Adaptation 
+ </div> </a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3933667"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/film-review-jungle-cruise-another-hit-and-miss-disney-theme-park-adaptation_3933667.html">comments<span class="comments" id="cmt_post_3933667"></span></a>
+<a href="https://www.theepochtimes.com/film-review-the-green-knight-yawn-fest-with-deep-spiritual-insights_3928952.html"> <img src="https://img.theepochtimes.com/assets/uploads/2021/08/02/Groot-205x123.jpg" alt="Film Review: ‘The Green Knight’: Yawn-Fest With Deep Spiritual Insights"> <span class="eet_video_icon"></span> </a>
+<a href="https://www.theepochtimes.com/film-review-the-green-knight-yawn-fest-with-deep-spiritual-insights_3928952.html"> 
+ <div class="title two_most">
+   Film Review: ‘The Green Knight’: Yawn-Fest With Deep Spiritual Insights 
+ </div> </a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3928952"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/film-review-the-green-knight-yawn-fest-with-deep-spiritual-insights_3928952.html">comments<span class="comments" id="cmt_post_3928952"></span></a>
+<a href="https://www.theepochtimes.com/c-fine-arts">Fine Arts &amp; Craftsmanship</a>
+<a href="https://www.theepochtimes.com/how-the-spinners-by-velazquez-teaches-the-consequence-of-irreverence-and-more_3901260.html"> <img src="https://img.theepochtimes.com/assets/uploads/2021/07/14/The-Spinners-old-painting-205x123.jpg" alt="How ‘The Spinners’ by Velázquez Teaches the Consequence of Irreverence and More"> </a>
+<a href="https://www.theepochtimes.com/how-the-spinners-by-velazquez-teaches-the-consequence-of-irreverence-and-more_3901260.html"> 
+ <div class="title two_most">
+   How ‘The Spinners’ by Velázquez Teaches the Consequence of Irreverence and More 
+ </div> </a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3901260"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/how-the-spinners-by-velazquez-teaches-the-consequence-of-irreverence-and-more_3901260.html">comments<span class="comments" id="cmt_post_3901260"></span></a>
+<a href="https://www.theepochtimes.com/the-dawn-chorus_3922467.html"> <img src="https://img.theepochtimes.com/assets/uploads/2021/08/02/Ivan_Shishkin_rye-205x123.jpeg" alt="The Dawn Chorus"> </a>
+<a href="https://www.theepochtimes.com/the-dawn-chorus_3922467.html"> 
+ <div class="title two_most">
+   The Dawn Chorus 
+ </div> </a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3922467"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/the-dawn-chorus_3922467.html">comments<span class="comments" id="cmt_post_3922467"></span></a>
+<a href="/editions">EPOCH INSPIRED MAGAZINES</a>
+<a href="https://www.theepochtimes.com/edition/3939727-32_3939727"> <img src="https://img.theepochtimes.com/assets/uploads/2021/08/09/week-32_MBsmall.jpg" alt="Latest Magazines"> </a>
+<a href="https://www.theepochtimes.com/edition/life-tradition-weekly-31-2_3929064"> <img src="https://img.theepochtimes.com/assets/uploads/2021/08/04/week-31_LTsmall.jpg" alt="Latest Magazines"> </a>
+<a href="https://www.theepochtimes.com/edition/arts-culture-31_3929063"> <img src="https://img.theepochtimes.com/assets/uploads/2021/08/03/week-31_ACsmall.jpg" alt="Latest Magazines"> </a>
+<a href="https://www.theepochtimes.com/edition/3929065-31_3929065"> <img src="https://img.theepochtimes.com/assets/uploads/2021/08/02/week-31_MBsmall.jpg" alt="Latest Magazines"> </a>
+<a href="https://www.theepochtimes.com/edition/life-tradition-weekly-30-2_3916515"> <img src="https://img.theepochtimes.com/assets/uploads/2021/07/29/week-30_LT2small.jpg" alt="Latest Magazines"> </a>
+<a href="https://www.theepochtimes.com/c-inspired-videos">INSPIRED VIDEOS</a>
+<a href="https://www.theepochtimes.com/dropping-5000-social-experiment_3940272.html"><span class="image"><img alt="Dropping $5,000 Social Experiment" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/Dropping-5000-Social-Experiment-300x180.jpg"> 
+  <noscript> 
+   <img alt="Dropping $5,000 Social Experiment" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/Dropping-5000-Social-Experiment-300x180.jpg"> 
+  </noscript><span class="eet_video_icon"></span></span></a>
+<a href="https://www.theepochtimes.com/dropping-5000-social-experiment_3940272.html"><span class="title three_most">Dropping $5,000 Social Experiment</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3940272"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/dropping-5000-social-experiment_3940272.html">comments<span class="comments" id="cmt_post_3940272"></span></a>
+<a href="https://www.theepochtimes.com/kindhearted-woman-cleans-old-gravestones_3938747.html"><span class="image"><img alt="Kindhearted Woman Cleans Old Gravestones" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/08/Kindhearted-Woman-Cleans-Old-Gravestones-300x180.jpg"> 
+  <noscript> 
+   <img alt="Kindhearted Woman Cleans Old Gravestones" src="https://img.theepochtimes.com/assets/uploads/2021/08/08/Kindhearted-Woman-Cleans-Old-Gravestones-300x180.jpg"> 
+  </noscript><span class="eet_video_icon"></span></span></a>
+<a href="https://www.theepochtimes.com/kindhearted-woman-cleans-old-gravestones_3938747.html"><span class="title three_most">Kindhearted Woman Cleans Old Gravestones</span></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3938747"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/kindhearted-woman-cleans-old-gravestones_3938747.html">comments<span class="comments" id="cmt_post_3938747"></span></a>
+<a href="https://www.theepochtimes.com/c-inspired-videos">show more<span class="arrow_right"></span></a>
+<a href="https://www.theepochtimes.com/i-told-myself-that-i-wouldnt-die-chinese-womans-resilience-in-the-face-of-brutal-torture-over-her-faith_3760873.html"> <img alt="Kindhearted Woman Cleans Old Gravestones" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/03/Chinese-woman-205x123.jpg"> <span class="numb">1</span> </a>
+<a href="https://www.theepochtimes.com/i-told-myself-that-i-wouldnt-die-chinese-womans-resilience-in-the-face-of-brutal-torture-over-her-faith_3760873.html"> 
+ <div class="title three_most">
+   ‘I Told Myself That I Wouldn’t Die’: Chinese Woman’s Resilience in the Face of Brutal Torture Over Her Faith 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3760873"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/i-told-myself-that-i-wouldnt-die-chinese-womans-resilience-in-the-face-of-brutal-torture-over-her-faith_3760873.html">comments<span class="comments" id="cmt_post_3760873"></span></a>
+<a href="https://www.theepochtimes.com/dog-lovers-photos-show-great-dane-puppy-outgrowing-his-canine-siblings-in-2-years_3915002.html"> <img alt="Kindhearted Woman Cleans Old Gravestones" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/06/Dog-sibling-205x123.jpg"> <span class="numb">2</span> </a>
+<a href="https://www.theepochtimes.com/dog-lovers-photos-show-great-dane-puppy-outgrowing-his-canine-siblings-in-2-years_3915002.html"> 
+ <div class="title three_most">
+   Dog Lovers’ Photos Show Great Dane Puppy Outgrowing His Canine Siblings in 2 Years 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3915002"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/dog-lovers-photos-show-great-dane-puppy-outgrowing-his-canine-siblings-in-2-years_3915002.html">comments<span class="comments" id="cmt_post_3915002"></span></a>
+<a href="https://www.theepochtimes.com/fishing-guide-videos-10-foot-long-400-pound-sturgeon-leaping-on-top-of-us-on-fraser-river_3924164.html"> <img alt="Kindhearted Woman Cleans Old Gravestones" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/10-Foot-Long-fish-205x123.jpg"> <span class="numb">3</span> </a>
+<a href="https://www.theepochtimes.com/fishing-guide-videos-10-foot-long-400-pound-sturgeon-leaping-on-top-of-us-on-fraser-river_3924164.html"> 
+ <div class="title three_most">
+   Fishing Guide Videos 10-Foot-Long, 400-Pound Sturgeon Leaping ‘On Top of Us’ on Fraser River 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3924164"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/fishing-guide-videos-10-foot-long-400-pound-sturgeon-leaping-on-top-of-us-on-fraser-river_3924164.html">comments<span class="comments" id="cmt_post_3924164"></span></a>
+<a href="https://www.theepochtimes.com/detective-responds-to-family-abuse-call-decides-to-adopt-boy-who-survived-being-burned-and-stabbed_3930730.html"> <img alt="Kindhearted Woman Cleans Old Gravestones" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/07/Ronnie-800-789web-789-205x123.jpg"> <span class="numb">4</span> </a>
+<a href="https://www.theepochtimes.com/detective-responds-to-family-abuse-call-decides-to-adopt-boy-who-survived-being-burned-and-stabbed_3930730.html"> 
+ <div class="title three_most">
+   Detective Responds to Family Abuse Call, Decides to Adopt Boy Who Survived Being Burned and Stabbed 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3930730"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/detective-responds-to-family-abuse-call-decides-to-adopt-boy-who-survived-being-burned-and-stabbed_3930730.html">comments<span class="comments" id="cmt_post_3930730"></span></a>
+<a href="https://www.theepochtimes.com/homeowner-finds-perfectly-preserved-newspaper-ad-of-her-3-bedroom-from-over-80-years-ago_3934906.html"> <img alt="Kindhearted Woman Cleans Old Gravestones" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/05/knew-i-ad-it-web-712-806-205x123.jpg"> <span class="numb">5</span> </a>
+<a href="https://www.theepochtimes.com/homeowner-finds-perfectly-preserved-newspaper-ad-of-her-3-bedroom-from-over-80-years-ago_3934906.html"> 
+ <div class="title three_most">
+   Homeowner Finds Perfectly Preserved Newspaper Ad of Her 3-Bedroom From Over 80 Years Ago 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3934906"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/homeowner-finds-perfectly-preserved-newspaper-ad-of-her-3-bedroom-from-over-80-years-ago_3934906.html">comments<span class="comments" id="cmt_post_3934906"></span></a>
+<a href="https://www.theepochtimes.com/firefighter-spots-american-flag-about-to-burn-during-fierce-auto-shop-blaze-saves-stars-and-stripes_3924104.html"> <img alt="Kindhearted Woman Cleans Old Gravestones" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/04/Firefighter-saveing-web-435-1-205x123.jpg"> <span class="numb">6</span> </a>
+<a href="https://www.theepochtimes.com/firefighter-spots-american-flag-about-to-burn-during-fierce-auto-shop-blaze-saves-stars-and-stripes_3924104.html"> 
+ <div class="title three_most">
+   Firefighter Spots American Flag About to Burn During Fierce Auto Shop Blaze—Saves Stars and Stripes 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3924104"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/firefighter-spots-american-flag-about-to-burn-during-fierce-auto-shop-blaze-saves-stars-and-stripes_3924104.html">comments<span class="comments" id="cmt_post_3924104"></span></a>
+<a href="https://www.theepochtimes.com/woman-looks-decade-younger-after-ditching-alcohol-i-am-the-fittest-i-have-ever-been_3840878.html"> <img alt="Kindhearted Woman Cleans Old Gravestones" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/06/beautifull-woman-205x123.jpg"> <span class="numb">7</span> </a>
+<a href="https://www.theepochtimes.com/woman-looks-decade-younger-after-ditching-alcohol-i-am-the-fittest-i-have-ever-been_3840878.html"> 
+ <div class="title three_most">
+   UK Woman Who Ditched Alcohol During National Lockdown Says, ‘I’m the Fittest I’ve Ever Been’ 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3840878"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/woman-looks-decade-younger-after-ditching-alcohol-i-am-the-fittest-i-have-ever-been_3840878.html">comments<span class="comments" id="cmt_post_3840878"></span></a>
+<a href="https://www.theepochtimes.com/whale-watchers-blown-away-as-4-huge-humpbacks-feast-on-the-fish-hiding-underneath-their-boat_3932054.html"> <img alt="Kindhearted Woman Cleans Old Gravestones" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/03/et-whale-boat-fb-789--205x123.jpg"> <span class="numb">8</span> </a>
+<a href="https://www.theepochtimes.com/whale-watchers-blown-away-as-4-huge-humpbacks-feast-on-the-fish-hiding-underneath-their-boat_3932054.html"> 
+ <div class="title three_most">
+   Whale Watchers Blown Away as 4 Huge Humpbacks Feast on the Fish Hiding Underneath Their Boat 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3932054"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/whale-watchers-blown-away-as-4-huge-humpbacks-feast-on-the-fish-hiding-underneath-their-boat_3932054.html">comments<span class="comments" id="cmt_post_3932054"></span></a>
+<a href="https://www.theepochtimes.com/long-lost-dog-reunites-with-his-family-after-being-found-10-years-later-1600-miles-away_3905814.html"> <img alt="Kindhearted Woman Cleans Old Gravestones" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/06/Lost-dog-205x123.jpg"> <span class="numb">9</span> </a>
+<a href="https://www.theepochtimes.com/long-lost-dog-reunites-with-his-family-after-being-found-10-years-later-1600-miles-away_3905814.html"> 
+ <div class="title three_most">
+   Long-Lost Dog Reunites With His Family After Being Found 10 Years Later 1,600 Miles Away 
+ </div></a>
+<a class="share_link" href="javascript:void(0)">share<span class="share" id="share_post_3905814"></span></a>
+<a class="cmt_link" href="https://www.theepochtimes.com/long-lost-dog-reunites-with-his-family-after-being-found-10-years-later-1600-miles-away_3905814.html">comments<span class="comments" id="cmt_post_3905814"></span></a>
+<a href="https://www.theepochtimes.com/c-us-politics">POLITICS</a>
+<a href="https://www.theepochtimes.com/epochtv-review-all-hail-the-uniparty_3938162.html"><span class="image"><img alt="EpochTV Review: All Hail the Uniparty" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/GOP-Betrayal-550x330.jpg"> 
+  <noscript> 
+   <img alt="EpochTV Review: All Hail the Uniparty" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/GOP-Betrayal-550x330.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/epochtv-review-all-hail-the-uniparty_3938162.html"><span class="title two_most">EpochTV Review: All Hail the Uniparty</span></a>
+<a href="https://www.theepochtimes.com/democrats-unveil-3-5-trillion-social-safety-net-and-climate-change-spending-blueprint_3939980.html"><span class="image"><img alt="Democrats Unveil $3.5 Trillion Social Safety Net and Climate Change Spending Blueprint" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/03/02/bernie-sanders-205x123.jpg"> 
+  <noscript> 
+   <img alt="Democrats Unveil $3.5 Trillion Social Safety Net and Climate Change Spending Blueprint" src="https://img.theepochtimes.com/assets/uploads/2021/03/02/bernie-sanders-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/democrats-unveil-3-5-trillion-social-safety-net-and-climate-change-spending-blueprint_3939980.html"><span class="title three_most">Democrats Unveil $3.5 Trillion Social Safety Net and Climate Change Spending Blueprint</span></a>
+<a href="https://www.theepochtimes.com/bidens-latest-economic-push-for-globalism-and-what-it-will-mean-for-america_3938295.html"><span class="image"><img alt="Biden’s Latest Economic Push for Globalism and What It Will Mean for America" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/07/The-EUs-Failings-205x123.jpg"> 
+  <noscript> 
+   <img alt="Biden’s Latest Economic Push for Globalism and What It Will Mean for America" src="https://img.theepochtimes.com/assets/uploads/2021/08/07/The-EUs-Failings-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/bidens-latest-economic-push-for-globalism-and-what-it-will-mean-for-america_3938295.html"><span class="title three_most">Biden’s Latest Economic Push for Globalism and What It Will Mean for America</span></a>
+<a href="https://www.theepochtimes.com/ny-state-assembly-committee-meets-to-discuss-cuomo-impeachment_3940026.html"><span class="image"><img alt="NY State Assembly Committee Meets to Discuss Cuomo Impeachment" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/04/Andrew-Cuomo-2-205x123.jpg"> 
+  <noscript> 
+   <img alt="NY State Assembly Committee Meets to Discuss Cuomo Impeachment" src="https://img.theepochtimes.com/assets/uploads/2021/08/04/Andrew-Cuomo-2-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/ny-state-assembly-committee-meets-to-discuss-cuomo-impeachment_3940026.html"><span class="title three_most">NY State Assembly Committee Meets to Discuss Cuomo Impeachment</span></a>
+<a href="https://www.theepochtimes.com/c-us-politics">show more<span class="arrow_right"></span></a>
+<a href="https://www.theepochtimes.com/us-news">U.S. NEWS</a>
+<a href="https://www.theepochtimes.com/nebraska-surgeon-2-family-members-killed-in-mn-plane-crash_3939863.html"><span class="image"><img alt="Nebraska Surgeon, 2 Family Members Killed in MN Plane Crash" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/palne-crashed-minn.-550x330.jpg"> 
+  <noscript> 
+   <img alt="Nebraska Surgeon, 2 Family Members Killed in MN Plane Crash" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/palne-crashed-minn.-550x330.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/nebraska-surgeon-2-family-members-killed-in-mn-plane-crash_3939863.html"><span class="title two_most">Nebraska Surgeon, 2 Family Members Killed in MN Plane Crash</span></a>
+<a href="https://www.theepochtimes.com/73-shot-10-killed-in-chicago-over-the-weekend-police_3939780.html"><span class="image"><img alt="73 Shot, 10 Killed in Chicago Over the Weekend: Police" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/chicago-shootings-205x123.jpg"> 
+  <noscript> 
+   <img alt="73 Shot, 10 Killed in Chicago Over the Weekend: Police" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/chicago-shootings-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/73-shot-10-killed-in-chicago-over-the-weekend-police_3939780.html"><span class="title three_most">73 Shot, 10 Killed in Chicago Over the Weekend: Police</span></a>
+<a href="https://www.theepochtimes.com/canada-allows-non-essential-travel-for-fully-vaccinated-americans_3940227.html"><span class="image"><img alt="Canada Allows Non-Essential Travel for Fully Vaccinated Americans" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/US-canada-border-4-205x123.jpeg"> 
+  <noscript> 
+   <img alt="Canada Allows Non-Essential Travel for Fully Vaccinated Americans" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/US-canada-border-4-205x123.jpeg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/canada-allows-non-essential-travel-for-fully-vaccinated-americans_3940227.html"><span class="title three_most">Canada Allows Non-Essential Travel for Fully Vaccinated Americans</span></a>
+<a href="https://www.theepochtimes.com/judge-weighs-whether-to-block-new-eviction-ban_3940192.html"><span class="image"><img alt="Judge Weighs Whether to Block New Eviction Ban" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2020/10/05/cdc-hq-2-205x123.jpg"> 
+  <noscript> 
+   <img alt="Judge Weighs Whether to Block New Eviction Ban" src="https://img.theepochtimes.com/assets/uploads/2020/10/05/cdc-hq-2-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/judge-weighs-whether-to-block-new-eviction-ban_3940192.html"><span class="title three_most">Judge Weighs Whether to Block New Eviction Ban</span></a>
+<a href="https://www.theepochtimes.com/us-news">show more<span class="arrow_right"></span></a>
+<a href="https://www.theepochtimes.com/c-china">CHINA</a>
+<a href="https://www.theepochtimes.com/china-punishes-over-40-officials-for-pandemic-failing_3940286.html"><span class="image"><img alt="China Punishes Over 40 Officials for Pandemic Failing" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/GettyImages-1332818858-550x330.jpg"> 
+  <noscript> 
+   <img alt="China Punishes Over 40 Officials for Pandemic Failing" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/GettyImages-1332818858-550x330.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/china-punishes-over-40-officials-for-pandemic-failing_3940286.html"><span class="title two_most">China Punishes Over 40 Officials for Pandemic Failing</span></a>
+<a href="https://www.theepochtimes.com/chinese-spies-trying-to-enter-uk-on-hong-kong-bno-visas-report_3939805.html"><span class="image"><img alt="Chinese Spies Trying to Enter UK on Hong Kong BN(O) Visas: Report" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/HongKong-visa-205x123.jpg"> 
+  <noscript> 
+   <img alt="Chinese Spies Trying to Enter UK on Hong Kong BN(O) Visas: Report" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/HongKong-visa-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/chinese-spies-trying-to-enter-uk-on-hong-kong-bno-visas-report_3939805.html"><span class="title three_most">Chinese Spies Trying to Enter UK on Hong Kong BN(O) Visas: Report</span></a>
+<a href="https://www.theepochtimes.com/make-money-to-cure-mothers-illness-14-year-old-china-gold-medallists-wish_3939636.html"><span class="image"><img alt="14-Year-Old Chinese Gold Medalist Hopes To Raise Enough Money to Cure Mother’s Illness" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/GettyImages-1332450680-1-205x123.jpg"> 
+  <noscript> 
+   <img alt="14-Year-Old Chinese Gold Medalist Hopes To Raise Enough Money to Cure Mother’s Illness" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/GettyImages-1332450680-1-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/make-money-to-cure-mothers-illness-14-year-old-china-gold-medallists-wish_3939636.html"><span class="title three_most">14-Year-Old Chinese Gold Medalist Hopes To Raise Enough Money to Cure Mother’s Illness</span></a>
+<a href="https://www.theepochtimes.com/activists-call-on-germany-to-halt-deportation-of-chinese-dissident_3939695.html"><span class="image"><img alt="Activists Call on Germany to Halt Deportation of Chinese Dissident" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/20046318_435954020121818_7604698421819462629_n-4-1-205x123.jpg"> 
+  <noscript> 
+   <img alt="Activists Call on Germany to Halt Deportation of Chinese Dissident" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/20046318_435954020121818_7604698421819462629_n-4-1-205x123.jpg"> 
+  </noscript><span class="premium_icon"></span></span></a>
+<a href="https://www.theepochtimes.com/activists-call-on-germany-to-halt-deportation-of-chinese-dissident_3939695.html"><span class="title three_most">Activists Call on Germany to Halt Deportation of Chinese Dissident</span></a>
+<a href="https://www.theepochtimes.com/c-china">show more<span class="arrow_right"></span></a>
+<a href="https://www.theepochtimes.com/c-world">WORLD</a>
+<a href="https://www.theepochtimes.com/liberal-mps-adam-vaughan-will-amos-karen-mccrimmon-wont-run-for-re-election_3940312.html"><span class="image"><img alt="Liberal MPs Adam Vaughan, Will Amos, Karen McCrimmon Won’t Run for Re Election" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/20210809110832-61114ab6323ce3437f84b5cajpeg-550x330.jpg"> 
+  <noscript> 
+   <img alt="Liberal MPs Adam Vaughan, Will Amos, Karen McCrimmon Won’t Run for Re Election" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/20210809110832-61114ab6323ce3437f84b5cajpeg-550x330.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/liberal-mps-adam-vaughan-will-amos-karen-mccrimmon-wont-run-for-re-election_3940312.html"><span class="title two_most">Liberal MPs Adam Vaughan, Will Amos, Karen McCrimmon Won’t Run for Re Election</span></a>
+<a href="https://www.theepochtimes.com/suspect-in-custody-after-priest-killed-in-western-france_3939891.html"><span class="image"><img alt="Suspect in Custody After Priest Killed in Western France" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/10/03/police-tap-australia-205x123.jpg"> 
+  <noscript> 
+   <img alt="Suspect in Custody After Priest Killed in Western France" src="https://img.theepochtimes.com/assets/uploads/2019/10/03/police-tap-australia-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/suspect-in-custody-after-priest-killed-in-western-france_3939891.html"><span class="title three_most">Suspect in Custody After Priest Killed in Western France</span></a>
+<a href="https://www.theepochtimes.com/afghan-forces-battling-to-retake-kunduz-as-taliban-advance-in-north_3939806.html"><span class="image"><img alt="Afghan Forces Battling to Retake Kunduz as Taliban Advance in North" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/tanks-arrive-in-kunduz-205x123.jpg"> 
+  <noscript> 
+   <img alt="Afghan Forces Battling to Retake Kunduz as Taliban Advance in North" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/tanks-arrive-in-kunduz-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/afghan-forces-battling-to-retake-kunduz-as-taliban-advance-in-north_3939806.html"><span class="title three_most">Afghan Forces Battling to Retake Kunduz as Taliban Advance in North</span></a>
+<a href="https://www.theepochtimes.com/indonesias-most-volatile-volcano-erupts-in-java-blanketing-towns-in-ash_3939869.html"><span class="image"><img alt="Indonesia’s Most Volatile Volcano Erupts in Java, Blanketing Towns in Ash" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/Indonesia-volcano-Jaka-205x123.jpeg"> 
+  <noscript> 
+   <img alt="Indonesia’s Most Volatile Volcano Erupts in Java, Blanketing Towns in Ash" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/Indonesia-volcano-Jaka-205x123.jpeg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/indonesias-most-volatile-volcano-erupts-in-java-blanketing-towns-in-ash_3939869.html"><span class="title three_most">Indonesia’s Most Volatile Volcano Erupts in Java, Blanketing Towns in Ash</span></a>
+<a href="https://www.theepochtimes.com/c-world">show more<span class="arrow_right"></span></a>
+<a href="https://www.theepochtimes.com/c-business">BUSINESS</a>
+<a href="https://www.theepochtimes.com/vaccine-maker-biontech-sees-2nd-quarter-profits-soar_3939886.html"><span class="image"><img alt="Vaccine-Maker BioNTech Sees 2nd-Quarter Profits Soar" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/07/09/pfizer-550x330.jpg"> 
+  <noscript> 
+   <img alt="Vaccine-Maker BioNTech Sees 2nd-Quarter Profits Soar" src="https://img.theepochtimes.com/assets/uploads/2021/07/09/pfizer-550x330.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/vaccine-maker-biontech-sees-2nd-quarter-profits-soar_3939886.html"><span class="title two_most">Vaccine-Maker BioNTech Sees 2nd-Quarter Profits Soar</span></a>
+<a href="https://www.theepochtimes.com/dollar-hits-4-month-high-against-euro-as-jobs-data-triggers-fed-tapering-bets_3939824.html"><span class="image"><img alt="Dollar Hits 4-Month High Against Euro as Jobs Data Triggers Fed Tapering Bets" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/04/19/us-dollar-205x123.jpg"> 
+  <noscript> 
+   <img alt="Dollar Hits 4-Month High Against Euro as Jobs Data Triggers Fed Tapering Bets" src="https://img.theepochtimes.com/assets/uploads/2021/04/19/us-dollar-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/dollar-hits-4-month-high-against-euro-as-jobs-data-triggers-fed-tapering-bets_3939824.html"><span class="title three_most">Dollar Hits 4-Month High Against Euro as Jobs Data Triggers Fed Tapering Bets</span></a>
+<a href="https://www.theepochtimes.com/5-reasons-why-you-need-to-learn-time-management-for-your-business_3938935.html"><span class="image"><img alt="5 Reasons Why You Need to Learn Time Management for Your Business" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/01/pexels-pixabay-459654-205x123.jpeg"> 
+  <noscript> 
+   <img alt="5 Reasons Why You Need to Learn Time Management for Your Business" src="https://img.theepochtimes.com/assets/uploads/2021/08/01/pexels-pixabay-459654-205x123.jpeg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/5-reasons-why-you-need-to-learn-time-management-for-your-business_3938935.html"><span class="title three_most">5 Reasons Why You Need to Learn Time Management for Your Business</span></a>
+<a href="https://www.theepochtimes.com/8-things-i-discovered-while-working-with-affluent-clients-in-new-york-city_3939733.html"><span class="image"><img alt="8 Things I Discovered While Working With Affluent Clients in New York City" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/business-meeting-5395567_1920-205x123.jpg"> 
+  <noscript> 
+   <img alt="8 Things I Discovered While Working With Affluent Clients in New York City" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/business-meeting-5395567_1920-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/8-things-i-discovered-while-working-with-affluent-clients-in-new-york-city_3939733.html"><span class="title three_most">8 Things I Discovered While Working With Affluent Clients in New York City</span></a>
+<a href="https://www.theepochtimes.com/c-business">show more<span class="arrow_right"></span></a>
+<a href="https://www.theepochtimes.com/c-science">SCIENCE &amp; TECH</a>
+<a href="https://www.theepochtimes.com/the-first-hotel-in-space-will-open-in-2027_3935411.html"><span class="image"><img alt="The First Hotel in Space Will Open in 2027" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/05/1628114346-Hotel-Espacial--550x330.jpeg"> 
+  <noscript> 
+   <img alt="The First Hotel in Space Will Open in 2027" src="https://img.theepochtimes.com/assets/uploads/2021/08/05/1628114346-Hotel-Espacial--550x330.jpeg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/the-first-hotel-in-space-will-open-in-2027_3935411.html"><span class="title two_most">The First Hotel in Space Will Open in 2027</span></a>
+<a href="https://www.theepochtimes.com/virgin-galactic-restarts-ticket-sales-at-450000-per-seat_3937050.html"><span class="image"><img alt="Virgin Galactic Restarts Ticket Sales at $450,000 per Seat" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/06/Space-tourims-Branson-2021-08-06-205x123.jpg"> 
+  <noscript> 
+   <img alt="Virgin Galactic Restarts Ticket Sales at $450,000 per Seat" src="https://img.theepochtimes.com/assets/uploads/2021/08/06/Space-tourims-Branson-2021-08-06-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/virgin-galactic-restarts-ticket-sales-at-450000-per-seat_3937050.html"><span class="title three_most">Virgin Galactic Restarts Ticket Sales at $450,000 per Seat</span></a>
+<a href="https://www.theepochtimes.com/archeologists-uncover-new-sections-of-2000-year-old-tunnels-in-western-wall-in-jerusalem_3923695.html"><span class="image"><img alt="Archeologists Uncover New Sections of 2,000-Year-Old Tunnels in Western Wall in Jerusalem" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/03/ET-Israel-Antiquities-Authority-web-52-205x123.jpg"> 
+  <noscript> 
+   <img alt="Archeologists Uncover New Sections of 2,000-Year-Old Tunnels in Western Wall in Jerusalem" src="https://img.theepochtimes.com/assets/uploads/2021/08/03/ET-Israel-Antiquities-Authority-web-52-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/archeologists-uncover-new-sections-of-2000-year-old-tunnels-in-western-wall-in-jerusalem_3923695.html"><span class="title three_most">Archeologists Uncover New Sections of 2,000-Year-Old Tunnels in Western Wall in Jerusalem</span></a>
+<a href="https://www.theepochtimes.com/boeing-postpones-key-test-flight-to-space-due-to-glitch_3931346.html"><span class="image"><img alt="Boeing Postpones Key Test Flight to Space Due to Glitch" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/03/2021-08-03T150817Z_3_LYNXMPEH720WT_RTROPTP_4_SPACE-EXPLORATION-BOEING-205x123.jpg"> 
+  <noscript> 
+   <img alt="Boeing Postpones Key Test Flight to Space Due to Glitch" src="https://img.theepochtimes.com/assets/uploads/2021/08/03/2021-08-03T150817Z_3_LYNXMPEH720WT_RTROPTP_4_SPACE-EXPLORATION-BOEING-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/boeing-postpones-key-test-flight-to-space-due-to-glitch_3931346.html"><span class="title three_most">Boeing Postpones Key Test Flight to Space Due to Glitch</span></a>
+<a href="https://www.theepochtimes.com/c-science">show more<span class="arrow_right"></span></a>
+<a href="https://www.theepochtimes.com/c-food-dining">FOOD</a>
+<a href="https://www.theepochtimes.com/dealing-with-wine-snobs_3933126.html"><span class="image"><img alt="Dealing With Wine Snobs" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/09/shutterstock_745426765-1-550x330.jpg"> 
+  <noscript> 
+   <img alt="Dealing With Wine Snobs" src="https://img.theepochtimes.com/assets/uploads/2021/08/09/shutterstock_745426765-1-550x330.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/dealing-with-wine-snobs_3933126.html"><span class="title two_most">Dealing With Wine Snobs</span></a>
+<a href="https://www.theepochtimes.com/honey-orange-chicken-foil-packets-are-a-flavorful-mess-free-win_3931374.html"><span class="image"><img alt="Recipe: Honey Orange Chicken Foil Packets Are a Flavorful, Mess-Free Win" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/04/entree-chicken-20210802-1-205x123.jpg"> 
+  <noscript> 
+   <img alt="Recipe: Honey Orange Chicken Foil Packets Are a Flavorful, Mess-Free Win" src="https://img.theepochtimes.com/assets/uploads/2021/08/04/entree-chicken-20210802-1-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/honey-orange-chicken-foil-packets-are-a-flavorful-mess-free-win_3931374.html"><span class="title three_most">Recipe: Honey Orange Chicken Foil Packets Are a Flavorful, Mess-Free Win</span></a>
+<a href="https://www.theepochtimes.com/for-the-best-berry-cobbler-bake-it-twice_3911056.html"><span class="image"><img alt="For the Best Berry Cobbler, Bake It Twice" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/07/21/atk-cobbler-20210804-205x123.jpg"> 
+  <noscript> 
+   <img alt="For the Best Berry Cobbler, Bake It Twice" src="https://img.theepochtimes.com/assets/uploads/2021/07/21/atk-cobbler-20210804-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/for-the-best-berry-cobbler-bake-it-twice_3911056.html"><span class="title three_most">For the Best Berry Cobbler, Bake It Twice</span></a>
+<a href="https://www.theepochtimes.com/summers-bounty-means-its-time-for-zucchini-fritters_3922219.html"><span class="image"><img alt="Summer’s Bounty Means It’s Time for Zucchini Fritters!" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/07/01/entree-eating-20210726-205x123.jpg"> 
+  <noscript> 
+   <img alt="Summer’s Bounty Means It’s Time for Zucchini Fritters!" src="https://img.theepochtimes.com/assets/uploads/2021/07/01/entree-eating-20210726-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/summers-bounty-means-its-time-for-zucchini-fritters_3922219.html"><span class="title three_most">Summer’s Bounty Means It’s Time for Zucchini Fritters!</span></a>
+<a href="https://www.theepochtimes.com/c-food-dining">show more<span class="arrow_right"></span></a>
+<a href="https://www.theepochtimes.com/c-entertainment">ENTERTAINMENT</a>
+<a href="https://www.theepochtimes.com/markie-post-tv-veteran-actress-of-night-court-dies-at-70_3939034.html"><span class="image"><img alt="Markie Post, TV Veteran Actress of ‘Night Court,’ Dies at 70" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/08/Actress-Markie-Post-2021-08-08-e1628458290471-550x330.jpg"> 
+  <noscript> 
+   <img alt="Markie Post, TV Veteran Actress of ‘Night Court,’ Dies at 70" src="https://img.theepochtimes.com/assets/uploads/2021/08/08/Actress-Markie-Post-2021-08-08-e1628458290471-550x330.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/markie-post-tv-veteran-actress-of-night-court-dies-at-70_3939034.html"><span class="title two_most">Markie Post, TV Veteran Actress of ‘Night Court,’ Dies at 70</span></a>
+<a href="https://www.theepochtimes.com/kool-the-gang-co-founder-dennis-thomas-dead-at-age-70_3938196.html"><span class="image"><img alt="Kool &amp; the Gang Co-founder Dennis Thomas Dead at Age 70" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/07/Dennis-Thoma-e1628372880630-205x123.jpg"> 
+  <noscript> 
+   <img alt="Kool &amp; the Gang Co-founder Dennis Thomas Dead at Age 70" src="https://img.theepochtimes.com/assets/uploads/2021/08/07/Dennis-Thoma-e1628372880630-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/kool-the-gang-co-founder-dennis-thomas-dead-at-age-70_3938196.html"><span class="title three_most">Kool &amp; the Gang Co-founder Dennis Thomas Dead at Age 70</span></a>
+<a href="https://www.theepochtimes.com/arrest-in-hit-and-run-death-of-gone-girl-actress-lisa-banes_3937285.html"><span class="image"><img alt="Arrest in Hit-and-Run Death of ‘Gone Girl’ Actress Lisa Banes" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/06/Lisa-Banes-e1628289025839-205x123.jpg"> 
+  <noscript> 
+   <img alt="Arrest in Hit-and-Run Death of ‘Gone Girl’ Actress Lisa Banes" src="https://img.theepochtimes.com/assets/uploads/2021/08/06/Lisa-Banes-e1628289025839-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/arrest-in-hit-and-run-death-of-gone-girl-actress-lisa-banes_3937285.html"><span class="title three_most">Arrest in Hit-and-Run Death of ‘Gone Girl’ Actress Lisa Banes</span></a>
+<a href="https://www.theepochtimes.com/singer-rihanna-is-officially-a-billionaire-forbes-says_3933519.html"><span class="image"><img alt="Singer Rihanna Is Officially a Billionaire, Forbes Says" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/04/rhianna-205x123.jpeg"> 
+  <noscript> 
+   <img alt="Singer Rihanna Is Officially a Billionaire, Forbes Says" src="https://img.theepochtimes.com/assets/uploads/2021/08/04/rhianna-205x123.jpeg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/singer-rihanna-is-officially-a-billionaire-forbes-says_3933519.html"><span class="title three_most">Singer Rihanna Is Officially a Billionaire, Forbes Says</span></a>
+<a href="https://www.theepochtimes.com/c-entertainment">show more<span class="arrow_right"></span></a>
+<a href="https://www.theepochtimes.com/c-homeschooling">HOMESCHOOLING</a>
+<a href="https://www.theepochtimes.com/homeschool-is-not-school-at-home_3935249.html"><span class="image"><img alt="Homeschool Is Not School at Home" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/08/08/mom-and-child-in-garden-550x330.jpg"> 
+  <noscript> 
+   <img alt="Homeschool Is Not School at Home" src="https://img.theepochtimes.com/assets/uploads/2021/08/08/mom-and-child-in-garden-550x330.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/homeschool-is-not-school-at-home_3935249.html"><span class="title two_most">Homeschool Is Not School at Home</span></a>
+<a href="https://www.theepochtimes.com/teaching-literature-a-guide-for-homeschoolers_3916466.html"><span class="image"><img alt="Teaching Literature: A Guide for Homeschoolers" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/07/28/mom-reading-to-child-homeschool-205x123.jpg"> 
+  <noscript> 
+   <img alt="Teaching Literature: A Guide for Homeschoolers" src="https://img.theepochtimes.com/assets/uploads/2021/07/28/mom-reading-to-child-homeschool-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/teaching-literature-a-guide-for-homeschoolers_3916466.html"><span class="title three_most">Teaching Literature: A Guide for Homeschoolers</span></a>
+<a href="https://www.theepochtimes.com/advice-for-new-homeschoolers_3916462.html"><span class="image"><img alt="Advice for New Homeschoolers" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/08/07/Mother-helping-her-daughter-with-her-homework-205x123.jpg"> 
+  <noscript> 
+   <img alt="Advice for New Homeschoolers" src="https://img.theepochtimes.com/assets/uploads/2019/08/07/Mother-helping-her-daughter-with-her-homework-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/advice-for-new-homeschoolers_3916462.html"><span class="title three_most">Advice for New Homeschoolers</span></a>
+<a href="https://www.theepochtimes.com/good-true-beautiful-great-literature-for-middle-school-students_3921354.html"><span class="image"><img alt="Good, True, Beautiful: Great Literature for Middle-School Students" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2021/07/27/books-205x123.jpg"> 
+  <noscript> 
+   <img alt="Good, True, Beautiful: Great Literature for Middle-School Students" src="https://img.theepochtimes.com/assets/uploads/2021/07/27/books-205x123.jpg"> 
+  </noscript></span></a>
+<a href="https://www.theepochtimes.com/good-true-beautiful-great-literature-for-middle-school-students_3921354.html"><span class="title three_most">Good, True, Beautiful: Great Literature for Middle-School Students</span></a>
+<a href="https://www.theepochtimes.com/c-homeschooling">show more<span class="arrow_right"></span></a>
+<a href="https://www.theepochtimes.com"> <img src="https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg" alt="The Epoch Times"> </a>
+<a class="help_center geo_help_center" href="https://service.theepochtimes.com/web/"> <span>Help Center</span> </a>
+<a class="subscribe" href="https://subscribe.theepochtimes.com/p/?page=subhome"> <span>subscribe</span> </a>
+<a class="newsletter" href="https://www.theepochtimes.com/newsletter"> <span>newsletter</span> </a>
+<a class="newsstands" href="https://www.theepochtimes.com/where-to-buy-the-epoch-times-newspaper"> <span>Newsstands</span> </a>
+<a class="epochshop" href="https://epochshop.com/" target="_blank"> <span>Epoch Shop</span> </a>
+<a class="gift" href="https://offers.theepochtimes.com/gift" target="_blank"><span>Gift</span></a>
+<a href="https://www.theepochtimes.com/editors-picks">Editor’s Picks</a>
+<a href="https://www.theepochtimes.com/how-the-specter-of-communism-is-ruling-our-world">SPECIAL SERIES</a>
+<a href="https://www.theepochtimes.com/c-shen-yun">Special Coverage</a>
+<a href="https://www.theepochtimes.com/latest">LATEST ARTICLES</a>
+<a href="https://subscribe.theepochtimes.com/p/?page=go-eet-footer-subs" target="_blank"> <img src="https://img.theepochtimes.com/assets/uploads/2020/12/11/subscribe-footerbutton.jpg" alt="You deserve to hear the truth."> </a>
+<a href="https://www.theepochtimes.com/contact-editorial">Contact Editorial</a>
+<a href="https://www.theepochtimes.com/contact-customer-care">Contact Customer Care</a>
+<a href="https://www.theepochtimes.com/advertise-2">Advertise</a>
+<a href="https://www.theepochtimes.com/copyrights-and-permissions">Copyrights and Permissions</a>
+<a href="https://www.theepochtimes.com/pr-and-media-inquiries">PR and Media Inquiries</a>
+<a href="https://www.theepochtimes.com/c-epoch-announcements">Media Statements</a>
+<a href="https://www.theepochtimes.com/about-us">About Us</a>
+<a href="https://www.theepochtimes.com/rssfeeds">RSS Feeds</a>
+<a href="https://www.theepochtimes.com/terms-of-service">Terms of Services</a>
+<a href="https://www.theepochtimes.com/privacy-notice">Privacy Policy</a>
+<a href="https://www.theepochtimes.com/copyright-infringement-notification">Copyright Policy</a>
+<a href="https://reader.epoch.cloud/" target="_blank">Digital Newspaper</a>
+<a href="https://www.theepochtimes.com/about-subscription">Our Story</a>
+<a href="https://subscribe.theepochtimes.com/p/?page=subhome">Subscribe</a>
+<a href="https://www.theepochtimes.com/c-job-openings">Careers</a>
+<a href="https://epochtimes.bg/">Bulgarian</a>
+<a href="https://www.theepochtimes.com/">English</a>
+<a href="https://www.epochtimes.com/">Chinese</a>
+<a href="https://es.theepochtimes.com/">Spanish</a>
+<a href="https://www.epochtimes.jp/">Japanese</a>
+<a href="https://kr.theepochtimes.com/">Korean</a>
+<a href="http://www.erabaru.net/">Indonesian</a>
+<a href="https://fr.theepochtimes.com/">French</a>
+<a href="https://www.epochtimes.de/">German</a>
+<a href="https://www.epochtimes.it/">Italian</a>
+<a href="https://www.epochtimes.com.br/">Portuguese</a>
+<a href="https://www.epochtimes.se/">Swedish</a>
+<a href="https://www.epochtimes.nl/">Dutch</a>
+<a href="https://www.epochtimes.ru/">Russian</a>
+<a href="https://www.epochtimes.com.ua/">Ukrainian</a>
+<a href="https://www.epochtimes-romania.com/">Romanian</a>
+<a href="https://www.epochtimes.cz/">Czech</a>
+<a href="https://www.epochtimes.cz/">Slovak</a>
+<a href="https://epochtimes.pl/">Polish</a>
+<a href="http://epochtimestr.com/">Turkish</a>
+<a href="https://persianepochtimes.com/">Persian</a>
+<a href="https://etviet.com/">Vietnamese</a>
+<a href="https://subscribe.theepochtimes.com/p/?page=mobile"><img src="https://img.theepochtimes.com/assets/uploads/2020/10/27/Desktop-AppleStoreBadge.png" alt="iOS"></a>
+<a href="https://subscribe.theepochtimes.com/p/?page=mobile"><img src="https://img.theepochtimes.com/assets/uploads/2020/10/27/Desktop-GooglePlayBadge.png" alt="Android"></a>
+<a href="https://www.theepochtimes.com/us-news">US</a>
+<a href="https://www.theepochtimes.com/c-us-news">US News</a>
+<a href="https://www.theepochtimes.com/c-us-features">US Features</a>
+<a href="https://www.theepochtimes.com/c-us-politics">Politics</a>
+<a href="https://www.theepochtimes.com/c-crime-us">Crime and Incidents</a>
+<a href="https://www.theepochtimes.com/c-nyc">New York</a>
+<a href="https://www.theepochtimes.com/c-nor-cal-san-francisco">San Francisco</a>
+<a href="https://www.theepochtimes.com/c-so-cal-los-angeles">Los Angeles</a>
+<a href="https://www.theepochtimes.com/c-opinion">Opinion</a>
+<a href="https://www.theepochtimes.com/c-thinking-about-china">Thinking About China</a>
+<a href="https://www.theepochtimes.com/c-viewpoints">Viewpoints</a>
+<a href="https://www.theepochtimes.com/c-jiang-zemin-story">Unbridled Evil: The Corrupt Reign of Jiang Zemin in China</a>
+<a href="https://www.theepochtimes.com/c-readers-turn">The Reader’s Turn</a>
+<a href="https://www.theepochtimes.com/c-essay-contest">America Essay Contest</a>
+<a href="https://www.theepochtimes.com/c-china">China</a>
+<a href="https://www.theepochtimes.com/c-china-us-news">US-China Relations</a>
+<a href="https://www.theepochtimes.com/c-regime">Chinese Regime</a>
+<a href="https://www.theepochtimes.com/c-business-economy">Business &amp; Economy</a>
+<a href="https://www.theepochtimes.com/c-culture">Chinese Culture</a>
+<a href="https://www.theepochtimes.com/c-human-rights">China Human Rights</a>
+<a href="https://www.theepochtimes.com/c-society">Social Issues</a>
+<a href="https://www.theepochtimes.com/c-organ-harvesting-in-china">Organ Harvesting in China</a>
+<a href="https://www.theepochtimes.com/c-world">World</a>
+<a href="https://www.theepochtimes.com/c-africa">Africa</a>
+<a href="https://www.theepochtimes.com/c-americas">Americas</a>
+<a href="https://www.theepochtimes.com/c-asia-pacific">Asia &amp; Pacific</a>
+<a href="https://www.theepochtimes.com/c-canada2">Canada</a>
+<a href="https://www.theepochtimes.com/c-europe">Europe</a>
+<a href="https://www.theepochtimes.com/c-uk">UK</a>
+<a href="https://www.theepochtimes.com/c-australia">Australia</a>
+<a href="https://www.theepochtimes.com/c-international">International</a>
+<a href="https://www.theepochtimes.com/c-middle-east">Middle East</a>
+<a href="https://www.theepochtimes.com/c-business">Business &amp; Economy</a>
+<a href="https://www.theepochtimes.com/c-companies">Companies</a>
+<a href="https://www.theepochtimes.com/c-economies">Economies</a>
+<a href="https://www.theepochtimes.com/c-markets">Markets</a>
+<a href="https://www.theepochtimes.com/c-real-estate">Real Estate</a>
+<a href="https://www.theepochtimes.com/c-arts-culture">ARTS &amp; CULTURE</a>
+<a href="https://www.theepochtimes.com/c-fine-arts">Fine Arts &amp; Craftsmanship</a>
+<a href="https://www.theepochtimes.com/c-performing-arts">Performing Arts</a>
+<a href="https://www.theepochtimes.com/c-literature">Literature</a>
+<a href="https://www.theepochtimes.com/c-traditional-culture">Traditional Culture</a>
+<a href="https://www.theepochtimes.com/c-shen-yun">Shen Yun Special Coverage</a>
+<a href="https://www.theepochtimes.com/c-film-reviews">Film Reviews</a>
+<a href="https://www.theepochtimes.com/c-science">Science</a>
+<a href="https://www.theepochtimes.com/c-science-news">News</a>
+<a href="https://www.theepochtimes.com/c-space">Space</a>
+<a href="https://www.theepochtimes.com/c-environment">Environment</a>
+<a href="https://www.theepochtimes.com/c-tech">Tech</a>
+<a href="https://www.theepochtimes.com/c-tech-news">Tech News</a>
+<a href="https://www.theepochtimes.com/c-products-reviews">Tech Products &amp; Reviews</a>
+<a href="https://www.theepochtimes.com/c-tech-social-media">Social Media</a>
+<a href="https://www.theepochtimes.com/c-sports">Sports</a>
+<a href="https://www.theepochtimes.com/c-video">Video</a>
+<a href="https://www.theepochtimes.com/c-american-thought-leaders">American Thought Leaders</a>
+<a href="https://www.theepochtimes.com/c-china-insider">China Insider</a>
+<a href="https://www.theepochtimes.com/c-crossroads">Crossroads</a>
+<a href="https://www.theepochtimes.com/c-life-tradition">Life &amp; Tradition</a>
+<a href="https://www.theepochtimes.com/c-inspired">Inspired</a>
+<a href="https://www.theepochtimes.com/c-family-life-2">Family &amp; Home</a>
+<a href="https://www.theepochtimes.com/c-slice-of-life">People</a>
+<a href="https://www.theepochtimes.com/c-food-dining">Food &amp; Dining</a>
+<a href="https://www.theepochtimes.com/c-travel">Travel</a>
+<a href="https://www.theepochtimes.com/c-entertainment">Entertainment</a>
+<a href="https://www.theepochtimes.com/c-film-tv">Film &amp; TV</a>
+<a href="https://www.theepochtimes.com/c-entertainment-news">Entertainment News</a>
+<a href="https://www.theepochtimes.com/c-wellness">Mind &amp; Body</a>
+<a href="https://www.theepochtimes.com/c-health-news">News</a>
+<a href="https://www.theepochtimes.com/c-aging">Aging</a>
+<a href="https://www.theepochtimes.com/c-fitness-nutrition">Fitness &amp; Nutrition</a>
+<a href="https://www.theepochtimes.com/c-treatments-and-techniques">Treatments and Techniques</a>
+<a href="https://www.theepochtimes.com/c-traditional-chinese-medicine">Chinese Medicine</a>
+<a href="https://www.theepochtimes.com/c-mindset">Mindset</a>
+<a title="back to top" href="javascript:void(0);" class="totop">Back Top</a>
+<a href="https://www.theepochtimes.com/privacy-notice">More information</a>
+<a href="#">I accept</a>
+<a href="javascript:void(0)" id="x_close">×</a>
