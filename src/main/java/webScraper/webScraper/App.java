@@ -5,6 +5,10 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.sql.Statement;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
@@ -17,15 +21,46 @@ public class App {
 	public static void main(String[] args) {
 		
 		try {
+			createDatabase();
+		} catch (ClassNotFoundException | SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+	
+	static void createDatabase() throws ClassNotFoundException, SQLException {
+		
+		
+		Connection conn = null;
+        Statement stmt = null;
+            //STEP 2: Register JDBC driver
+        	Class.forName("org.mariadb.jdbc.Driver");
+            
+            //STEP 3: Open a connection
+            System.out.println("Connecting to a selected database...");
+            conn = DriverManager.getConnection("jdbc:mariadb://localhost:3306/", "root", "root");
+            System.out.println("Connected database successfully...");
+            stmt = conn.createStatement();
+            String sql = "create database if not exists webScraper";
+            stmt.executeUpdate(sql);
+		
+	}
+	
+	static void webScrape() {
+		
+		try {
 			String url = "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx";
 			Document doc = Jsoup.connect(url).get();
 			Elements info = doc.getElementsByTag("strong");
+			
+			
 			
 			FileWriter fw = new FileWriter("data");
 			fw.write(info.toString());
 			fw.close();
 			
-			String caseCount = Files.readAllLines(Paths.get("data")).get(2);
+			String caseCount = Files.readAllLines(Paths.get("data")).get(3);
 			
 			String caseCount1 = caseCount.replaceFirst("<strong>", "");
 			String caseCount2 = caseCount1.substring(0, caseCount1.length()-9);
@@ -65,4 +100,5 @@ public class App {
 		}
 		
 	}
+	
 }
