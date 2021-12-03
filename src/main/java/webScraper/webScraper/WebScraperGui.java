@@ -9,9 +9,11 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 import javax.swing.JFrame;
+import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
+import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.DefaultTableModel;
 
 public class WebScraperGui extends JFrame implements ActionListener {
@@ -35,13 +37,7 @@ public class WebScraperGui extends JFrame implements ActionListener {
 		myPanel.setBackground(Color.GRAY);
 		
 		createJTable();
-		myTable.setPreferredSize(new Dimension(1000, 600));
-		myTable.setFont(new Font("Arial", Font.PLAIN, 60));
-		myTable.setRowHeight(myTable.getRowHeight() + 50);
-		myTable.setAutoResizeMode(JTable.AUTO_RESIZE_ALL_COLUMNS);
-		myTable.setShowGrid(true);
-		
-		
+			
 		
 		myPanel.add(myTable);
 		myFrame.add(myPanel);
@@ -72,7 +68,15 @@ public class WebScraperGui extends JFrame implements ActionListener {
 		};
 		String [] header = {"Description", "Data"};
 		DefaultTableModel model = new DefaultTableModel(data, header);
+		DefaultTableCellRenderer centerRenderer = new DefaultTableCellRenderer();
+		centerRenderer.setHorizontalAlignment( JLabel.CENTER );
 		myTable = new JTable(model);
+		myTable.setDefaultRenderer(Object.class, centerRenderer);
+		myTable.setPreferredSize(new Dimension(1000, 600));
+		myTable.setFont(new Font("Arial", Font.PLAIN, 40));
+		myTable.setRowHeight(myTable.getRowHeight() + 50);
+		
+		
 		
 	}
 
