@@ -8,7 +8,12 @@ import java.awt.Font;
 import java.awt.GridBagLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.image.BufferedImage;
+import java.io.File;
+import java.io.IOException;
 
+import javax.imageio.ImageIO;
+import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
@@ -22,11 +27,16 @@ import javax.swing.table.TableColumnModel;
 public class WebScraperGui extends JFrame implements ActionListener {
 
 	static JFrame myFrame;
-	static JPanel myPanel;
+	static JPanel myPanel, myPanel2;
 	static JTable myTable;
+	static BufferedImage myPic;
+	static JLabel paPic;
 
-	WebScraperGui() {
-
+	WebScraperGui() throws IOException {
+		
+		myPic = ImageIO.read(new File("C:\\Users\\wmsai\\Desktop\\Java Projects\\cdcWebScraper\\freDelivery.png"));
+		paPic = new JLabel(new ImageIcon(myPic));
+		
 		myFrame = new JFrame();
 		myFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		myFrame.setLayout(new FlowLayout(FlowLayout.CENTER));
@@ -36,13 +46,16 @@ public class WebScraperGui extends JFrame implements ActionListener {
 		myFrame.getContentPane().setBackground(Color.lightGray);
 
 		myPanel = new JPanel();
-		myPanel.setLayout(new GridBagLayout());
-		myPanel.setBorder(new EmptyBorder(0, 0, 0, 0));
+		myPanel.setLayout(new FlowLayout());
 		myPanel.setPreferredSize(new Dimension(1000, 600));
 		myPanel.setBackground(Color.lightGray);
+		
+		myPanel2 = new JPanel();
+		
 
 		createJTable();
 
+		myPanel.add(paPic);
 		myPanel.add(myTable);
 		myFrame.add(myPanel);
 
