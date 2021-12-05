@@ -62,8 +62,8 @@ public class WebScraperGui extends JFrame implements ActionListener {
 
 		String[][] data = {
 
-				{ "New cases since last runtime:", App.dataShift }, { "People currently sick:", App.peopleSickInPA },
-				{ "Percent of population currently sick:", App.percentageSick } };
+				{ "New PA cases since last runtime:", App.dataShift }, { "People currently sick in PA:", App.peopleSickInPA },
+				{ "Percent of PA population currently sick:", App.percentageSick+"%" } };
 		String[] header = { "Description", "Data" };
 		DefaultTableModel model = new DefaultTableModel(data, header);
 		DefaultTableCellRenderer centerRenderer = new DefaultTableCellRenderer();

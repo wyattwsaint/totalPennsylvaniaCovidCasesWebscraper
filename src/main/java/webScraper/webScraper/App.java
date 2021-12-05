@@ -149,7 +149,7 @@ public class App {
 		double percentageSick001 = percentageSick0 / percentageSick01;
 		double percentageSick1 = percentageSick001 * 100;
 		percentageSick = String.valueOf((int) percentageSick1);
-		System.out.println("Percentage of population currently sick: " + percentageSick + "%");
+		System.out.println("Percentage of PA population currently sick: " + percentageSick + "%");
 		
 		
 	}
